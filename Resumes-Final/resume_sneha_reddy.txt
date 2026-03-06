@@ -1,0 +1,40 @@
+
+============================================================
+FILE: resume_sneha_reddy.txt
+ARCHETYPE: Near-Complete Mismatch (Frontend developer)
+============================================================
+
+Sneha Reddy
+Bengaluru, India | +91-7890123456 | sneha.reddy@email.com
+
+PROFILE
+Creative Frontend Developer with 1.5 years of experience building responsive web applications
+using React.js and Next.js. Passionate about UI/UX and user-centered design.
+
+EXPERIENCE
+
+Frontend Developer — DesignHub Technologies, Bengaluru
+Jan 2023 – Present (1.5 years)
+
+- Build React.js and Next.js web applications for 3 enterprise clients.
+- Style using Tailwind CSS, Material UI, and custom CSS animations.
+- Integrate REST APIs and GraphQL endpoints built by backend team.
+- Used AWS Amplify to host one static React app — no configuration beyond CLI prompts.
+- Uploaded build artifacts to S3 via console — no bucket policy or IaC experience.
+- Basic Git workflow: branching, PRs, code reviews.
+- Occasionally SSH into EC2 to check if frontend build deployed correctly (guided by senior).
+
+EDUCATION
+B.E. in Computer Science — Dayananda Sagar University, 2022 (CGPA: 8.3/10)
+
+SKILLS
+Frontend: React.js, Next.js, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS
+State: Redux, Zustand, React Query
+Testing: Jest, React Testing Library
+Cloud: AWS Amplify (surface-level), S3 (manual uploads only)
+Tools: Figma, VS Code, Git, GitHub
+No experience: Linux administration, networking, IAM, EC2 management, scripting, CI/CD
+
+CERTIFICATIONS
+- Meta Frontend Developer Professional Certificate (Coursera)
+- AWS Cloud Practitioner (2024) — passed on first attempt

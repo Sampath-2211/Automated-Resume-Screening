@@ -1,0 +1,14 @@
+Job Title: Generative AI Engineer
+Location: Remote
+
+We are looking for a Generative AI Engineer to build the next generation of content creation tools. You will be working with Large Language Models (LLMs) and diffusion models.
+
+Key Requirements:
+1. Strong experience in Artificial Intelligence and Deep Learning.
+2. Proficiency in Python backend development.
+3. Experience deploying models to the cloud.
+4. Knowledge of vector databases.
+
+Nice to Have:
+- Research publications.
+- Open source contributions.

@@ -1,0 +1,451 @@
+{
+  "timestamp": "2026-01-07T00:32:11.354993",
+  "total_resumes": 10,
+  "jd_requirements": {
+    "mandatory_skills": [
+      "Python",
+      "Communication",
+      "Problem Solving"
+    ],
+    "bonus_skills": [
+      "Cloud",
+      "Leadership"
+    ],
+    "experience_required": "2+ years",
+    "education_required": "Bachelor's degree",
+    "industry_domain": "Technology"
+  },
+  "evaluation_criteria": [
+    "Technical Skills Match: Proficiency in required technologies",
+    "Experience Level: Years and quality of relevant experience",
+    "Education & Certifications: Academic qualifications and credentials",
+    "Project Complexity: Scale and impact of past projects",
+    "Industry Experience: Relevant domain knowledge",
+    "Quantifiable Achievements: Measurable results and impact",
+    "Technology Stack Alignment: Familiarity with specific tools"
+  ],
+  "rankings": [
+    {
+      "name": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101",
+      "scores": [
+        2,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2
+      ],
+      "total_score": 9,
+      "normalized_score": 6.4,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 2,
+        "Experience Level: Years and quality of relevant experience": 0,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 2,
+        "Quantifiable Achievements: Measurable results and impact": 2,
+        "Technology Stack Alignment: Familiarity with specific tools": 2
+      },
+      "filename": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101.pdf",
+      "rank": 1
+    },
+    {
+      "name": "Sampath_CV",
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "total_score": 9,
+      "normalized_score": 6.4,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 1,
+        "Experience Level: Years and quality of relevant experience": 1,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 1,
+        "Industry Experience: Relevant domain knowledge": 1,
+        "Quantifiable Achievements: Measurable results and impact": 2,
+        "Technology Stack Alignment: Familiarity with specific tools": 2
+      },
+      "filename": "Sampath_CV.pdf",
+      "rank": 2
+    },
+    {
+      "name": "S K Mohammed Gulfam Hassan (9110642859) - S K Mohammed Gulfam Hassan 22167196101",
+      "scores": [
+        1,
+        2,
+        0,
+        1,
+        2,
+        2,
+        1
+      ],
+      "total_score": 9,
+      "normalized_score": 6.4,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 1,
+        "Experience Level: Years and quality of relevant experience": 2,
+        "Education & Certifications: Academic qualifications and credentials": 0,
+        "Project Complexity: Scale and impact of past projects": 1,
+        "Industry Experience: Relevant domain knowledge": 2,
+        "Quantifiable Achievements: Measurable results and impact": 2,
+        "Technology Stack Alignment: Familiarity with specific tools": 1
+      },
+      "filename": "S K Mohammed Gulfam Hassan (9110642859) - S K Mohammed Gulfam Hassan 22167196101.pdf",
+      "rank": 3
+    },
+    {
+      "name": "Pavithra - Mallangi Pavithra 22105694101",
+      "scores": [
+        2,
+        0,
+        1,
+        0,
+        1,
+        1,
+        2
+      ],
+      "total_score": 7,
+      "normalized_score": 5.0,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 2,
+        "Experience Level: Years and quality of relevant experience": 0,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 1,
+        "Quantifiable Achievements: Measurable results and impact": 1,
+        "Technology Stack Alignment: Familiarity with specific tools": 2
+      },
+      "filename": "Pavithra - Mallangi Pavithra 22105694101.pdf",
+      "rank": 4
+    },
+    {
+      "name": "cv_bhargav - Kota Bhargav Bhargav BU22CSEN0400287",
+      "scores": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        1,
+        1
+      ],
+      "total_score": 7,
+      "normalized_score": 5.0,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 0,
+        "Experience Level: Years and quality of relevant experience": 2,
+        "Education & Certifications: Academic qualifications and credentials": 2,
+        "Project Complexity: Scale and impact of past projects": 1,
+        "Industry Experience: Relevant domain knowledge": 0,
+        "Quantifiable Achievements: Measurable results and impact": 1,
+        "Technology Stack Alignment: Familiarity with specific tools": 1
+      },
+      "filename": "cv_bhargav - Kota Bhargav Bhargav BU22CSEN0400287.pdf",
+      "rank": 5
+    },
+    {
+      "name": "SrimanResume (6) - Kodakandla Sriman Seshadri Iyengar 22256002101",
+      "scores": [
+        1,
+        2,
+        1,
+        0,
+        0,
+        2,
+        1
+      ],
+      "total_score": 7,
+      "normalized_score": 5.0,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 1,
+        "Experience Level: Years and quality of relevant experience": 2,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 0,
+        "Quantifiable Achievements: Measurable results and impact": 2,
+        "Technology Stack Alignment: Familiarity with specific tools": 1
+      },
+      "filename": "SrimanResume (6) - Kodakandla Sriman Seshadri Iyengar 22256002101.pdf",
+      "rank": 6
+    },
+    {
+      "name": "Lavanya resume - Pothireddy Lavanya 22246889101",
+      "scores": [
+        2,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0
+      ],
+      "total_score": 5,
+      "normalized_score": 3.6,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 2,
+        "Experience Level: Years and quality of relevant experience": 2,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 0,
+        "Quantifiable Achievements: Measurable results and impact": 0,
+        "Technology Stack Alignment: Familiarity with specific tools": 0
+      },
+      "filename": "Lavanya resume - Pothireddy Lavanya 22246889101.pdf",
+      "rank": 7
+    },
+    {
+      "name": "Pink Simple Profile Resume (2) (1) - Abdul Hameed B M 22247597101",
+      "scores": [
+        1,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0
+      ],
+      "total_score": 4,
+      "normalized_score": 2.9,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 1,
+        "Experience Level: Years and quality of relevant experience": 1,
+        "Education & Certifications: Academic qualifications and credentials": 0,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 1,
+        "Quantifiable Achievements: Measurable results and impact": 1,
+        "Technology Stack Alignment: Familiarity with specific tools": 0
+      },
+      "filename": "Pink Simple Profile Resume (2) (1) - Abdul Hameed B M 22247597101.pdf",
+      "rank": 8
+    },
+    {
+      "name": "RESUME-2",
+      "scores": [
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1
+      ],
+      "total_score": 4,
+      "normalized_score": 2.9,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 1,
+        "Experience Level: Years and quality of relevant experience": 0,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 1,
+        "Quantifiable Achievements: Measurable results and impact": 0,
+        "Technology Stack Alignment: Familiarity with specific tools": 1
+      },
+      "filename": "RESUME-2.pdf",
+      "rank": 9
+    },
+    {
+      "name": "Karanam Hareesa Resume - Hareesa Karanam 22107351101",
+      "scores": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1
+      ],
+      "total_score": 3,
+      "normalized_score": 2.1,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 0,
+        "Experience Level: Years and quality of relevant experience": 1,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 0,
+        "Quantifiable Achievements: Measurable results and impact": 0,
+        "Technology Stack Alignment: Familiarity with specific tools": 1
+      },
+      "filename": "Karanam Hareesa Resume - Hareesa Karanam 22107351101.pdf",
+      "rank": 10
+    }
+  ],
+  "top_candidates": [
+    {
+      "name": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101",
+      "scores": [
+        2,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2
+      ],
+      "total_score": 9,
+      "normalized_score": 6.4,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 2,
+        "Experience Level: Years and quality of relevant experience": 0,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 2,
+        "Quantifiable Achievements: Measurable results and impact": 2,
+        "Technology Stack Alignment: Familiarity with specific tools": 2
+      },
+      "filename": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101.pdf",
+      "rank": 1
+    },
+    {
+      "name": "Sampath_CV",
+      "scores": [
+        1,
+        1,
+        1,
+        1,
+        1,
+        2,
+        2
+      ],
+      "total_score": 9,
+      "normalized_score": 6.4,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 1,
+        "Experience Level: Years and quality of relevant experience": 1,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 1,
+        "Industry Experience: Relevant domain knowledge": 1,
+        "Quantifiable Achievements: Measurable results and impact": 2,
+        "Technology Stack Alignment: Familiarity with specific tools": 2
+      },
+      "filename": "Sampath_CV.pdf",
+      "rank": 2
+    },
+    {
+      "name": "S K Mohammed Gulfam Hassan (9110642859) - S K Mohammed Gulfam Hassan 22167196101",
+      "scores": [
+        1,
+        2,
+        0,
+        1,
+        2,
+        2,
+        1
+      ],
+      "total_score": 9,
+      "normalized_score": 6.4,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 1,
+        "Experience Level: Years and quality of relevant experience": 2,
+        "Education & Certifications: Academic qualifications and credentials": 0,
+        "Project Complexity: Scale and impact of past projects": 1,
+        "Industry Experience: Relevant domain knowledge": 2,
+        "Quantifiable Achievements: Measurable results and impact": 2,
+        "Technology Stack Alignment: Familiarity with specific tools": 1
+      },
+      "filename": "S K Mohammed Gulfam Hassan (9110642859) - S K Mohammed Gulfam Hassan 22167196101.pdf",
+      "rank": 3
+    },
+    {
+      "name": "Pavithra - Mallangi Pavithra 22105694101",
+      "scores": [
+        2,
+        0,
+        1,
+        0,
+        1,
+        1,
+        2
+      ],
+      "total_score": 7,
+      "normalized_score": 5.0,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 2,
+        "Experience Level: Years and quality of relevant experience": 0,
+        "Education & Certifications: Academic qualifications and credentials": 1,
+        "Project Complexity: Scale and impact of past projects": 0,
+        "Industry Experience: Relevant domain knowledge": 1,
+        "Quantifiable Achievements: Measurable results and impact": 1,
+        "Technology Stack Alignment: Familiarity with specific tools": 2
+      },
+      "filename": "Pavithra - Mallangi Pavithra 22105694101.pdf",
+      "rank": 4
+    },
+    {
+      "name": "cv_bhargav - Kota Bhargav Bhargav BU22CSEN0400287",
+      "scores": [
+        0,
+        2,
+        2,
+        1,
+        0,
+        1,
+        1
+      ],
+      "total_score": 7,
+      "normalized_score": 5.0,
+      "strengths": "Not specified",
+      "gaps": "Not specified",
+      "overall_fit": "Not specified",
+      "criteria_scores": {
+        "Technical Skills Match: Proficiency in required technologies": 0,
+        "Experience Level: Years and quality of relevant experience": 2,
+        "Education & Certifications: Academic qualifications and credentials": 2,
+        "Project Complexity: Scale and impact of past projects": 1,
+        "Industry Experience: Relevant domain knowledge": 0,
+        "Quantifiable Achievements: Measurable results and impact": 1,
+        "Technology Stack Alignment: Familiarity with specific tools": 1
+      },
+      "filename": "cv_bhargav - Kota Bhargav Bhargav BU22CSEN0400287.pdf",
+      "rank": 5
+    }
+  ]
+}

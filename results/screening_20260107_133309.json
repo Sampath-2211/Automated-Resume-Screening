@@ -1,0 +1,647 @@
+{
+  "timestamp": "2026-01-07T13:33:09.043122",
+  "total_resumes": 10,
+  "phase1_filtered": 8,
+  "jd_requirements": {
+    "mandatory_skills": [
+      "Python",
+      "Api",
+      "Machine Learning",
+      "Ai",
+      "Data Science"
+    ],
+    "bonus_skills": [
+      "Communication"
+    ],
+    "experience_required": "3+ years",
+    "education_required": "Bachelor's degree"
+  },
+  "rankings": [
+    {
+      "name": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101",
+      "filename": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101.pdf",
+      "phase1_score": 0.032,
+      "final_score": 9.1,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 2,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Excellent match. Scores well on 4/5 core requirements.",
+      "strengths": "Strong in: Evidence of Api expertise, Evidence of Machine Learning expertise, Evidence of Ai expertise",
+      "gaps": "Well-rounded profile",
+      "rank": 1
+    },
+    {
+      "name": "Pavithra - Mallangi Pavithra 22105694101",
+      "filename": "Pavithra - Mallangi Pavithra 22105694101.pdf",
+      "phase1_score": 0.032,
+      "final_score": 9.1,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 2,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Excellent match. Scores well on 4/5 core requirements.",
+      "strengths": "Strong in: Evidence of Python expertise, Evidence of Api expertise, Evidence of Machine Learning expertise",
+      "gaps": "Well-rounded profile",
+      "rank": 2
+    },
+    {
+      "name": "SrimanResume (6) - Kodakandla Sriman Seshadri Iyengar 22256002101",
+      "filename": "SrimanResume (6) - Kodakandla Sriman Seshadri Iyengar 22256002101.pdf",
+      "phase1_score": 0.032,
+      "final_score": 9.1,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 2,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Excellent match. Scores well on 4/5 core requirements.",
+      "strengths": "Strong in: Evidence of Api expertise, Evidence of Machine Learning expertise, Evidence of Ai expertise",
+      "gaps": "Well-rounded profile",
+      "rank": 3
+    },
+    {
+      "name": "cv_bhargav - Kota Bhargav Bhargav BU22CSEN0400287",
+      "filename": "cv_bhargav - Kota Bhargav Bhargav BU22CSEN0400287.pdf",
+      "phase1_score": 0.03,
+      "final_score": 6.4,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 0,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Good potential. Scores well on 3/5 core requirements.",
+      "strengths": "Strong in: Evidence of Python expertise, Evidence of Api expertise, Evidence of Ai expertise",
+      "gaps": "Missing: Evidence of Machine Learning expertise",
+      "rank": 4
+    },
+    {
+      "name": "Sampath_CV",
+      "filename": "Sampath_CV.pdf",
+      "phase1_score": 0.032,
+      "final_score": 5.5,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 2,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Good potential. Scores well on 2/5 core requirements.",
+      "strengths": "Strong in: Evidence of Machine Learning expertise, Evidence of Data Science expertise, Has Communication experience",
+      "gaps": "Missing: Evidence of Python expertise, Evidence of Api expertise",
+      "rank": 5
+    },
+    {
+      "name": "Lavanya resume - Pothireddy Lavanya 22246889101",
+      "filename": "Lavanya resume - Pothireddy Lavanya 22246889101.pdf",
+      "phase1_score": 0.032,
+      "final_score": 5.0,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 1,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Good potential. Scores well on 1/5 core requirements.",
+      "strengths": "Strong in: Evidence of Api expertise",
+      "gaps": "Missing: Evidence of Data Science expertise",
+      "rank": 6
+    },
+    {
+      "name": "S K Mohammed Gulfam Hassan (9110642859) - S K Mohammed Gulfam Hassan 22167196101",
+      "filename": "S K Mohammed Gulfam Hassan (9110642859) - S K Mohammed Gulfam Hassan 22167196101.pdf",
+      "phase1_score": 0.03,
+      "final_score": 3.6,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 0,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Moderate fit. Scores well on 1/5 core requirements.",
+      "strengths": "Strong in: Evidence of Machine Learning expertise",
+      "gaps": "Missing: Evidence of Python expertise, Evidence of Ai expertise",
+      "rank": 7
+    },
+    {
+      "name": "RESUME-2",
+      "filename": "RESUME-2.pdf",
+      "phase1_score": 0.032,
+      "final_score": 3.2,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 1,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Moderate fit. Scores well on 1/5 core requirements.",
+      "strengths": "Strong in: Evidence of Machine Learning expertise",
+      "gaps": "Missing: Evidence of Api expertise, Evidence of Ai expertise",
+      "rank": 8
+    }
+  ],
+  "top_candidates": [
+    {
+      "name": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101",
+      "filename": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101.pdf",
+      "phase1_score": 0.032,
+      "final_score": 9.1,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 2,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Excellent match. Scores well on 4/5 core requirements.",
+      "strengths": "Strong in: Evidence of Api expertise, Evidence of Machine Learning expertise, Evidence of Ai expertise",
+      "gaps": "Well-rounded profile",
+      "rank": 1
+    },
+    {
+      "name": "Pavithra - Mallangi Pavithra 22105694101",
+      "filename": "Pavithra - Mallangi Pavithra 22105694101.pdf",
+      "phase1_score": 0.032,
+      "final_score": 9.1,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 2,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Excellent match. Scores well on 4/5 core requirements.",
+      "strengths": "Strong in: Evidence of Python expertise, Evidence of Api expertise, Evidence of Machine Learning expertise",
+      "gaps": "Well-rounded profile",
+      "rank": 2
+    },
+    {
+      "name": "SrimanResume (6) - Kodakandla Sriman Seshadri Iyengar 22256002101",
+      "filename": "SrimanResume (6) - Kodakandla Sriman Seshadri Iyengar 22256002101.pdf",
+      "phase1_score": 0.032,
+      "final_score": 9.1,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 2,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Excellent match. Scores well on 4/5 core requirements.",
+      "strengths": "Strong in: Evidence of Api expertise, Evidence of Machine Learning expertise, Evidence of Ai expertise",
+      "gaps": "Well-rounded profile",
+      "rank": 3
+    },
+    {
+      "name": "cv_bhargav - Kota Bhargav Bhargav BU22CSEN0400287",
+      "filename": "cv_bhargav - Kota Bhargav Bhargav BU22CSEN0400287.pdf",
+      "phase1_score": 0.03,
+      "final_score": 6.4,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 0,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Good potential. Scores well on 3/5 core requirements.",
+      "strengths": "Strong in: Evidence of Python expertise, Evidence of Api expertise, Evidence of Ai expertise",
+      "gaps": "Missing: Evidence of Machine Learning expertise",
+      "rank": 4
+    },
+    {
+      "name": "Sampath_CV",
+      "filename": "Sampath_CV.pdf",
+      "phase1_score": 0.032,
+      "final_score": 5.5,
+      "scores": [
+        {
+          "criterion": "Evidence of Python expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Api expertise?",
+          "score": 0,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Machine Learning expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Ai expertise?",
+          "score": 1,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Evidence of Data Science expertise?",
+          "score": 2,
+          "weight": 2.0,
+          "type": "mandatory"
+        },
+        {
+          "criterion": "Has Communication experience?",
+          "score": 2,
+          "weight": 1.0,
+          "type": "bonus"
+        }
+      ],
+      "summary": "Good potential. Scores well on 2/5 core requirements.",
+      "strengths": "Strong in: Evidence of Machine Learning expertise, Evidence of Data Science expertise, Has Communication experience",
+      "gaps": "Missing: Evidence of Python expertise, Evidence of Api expertise",
+      "rank": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+
+============================================================
+FILE: resume_aisha_patel.txt
+ARCHETYPE: Keyword Stuffer (lots of keywords, no real depth)
+============================================================
+
+Aisha Patel
+Mumbai, India | +91-9012345678 | aisha.patel@email.com
+
+SUMMARY
+Highly skilled Cloud and DevOps Engineer with expertise in AWS, Azure, GCP, Kubernetes, Docker,
+Terraform, Ansible, Jenkins, Linux, Windows, Python, Bash, PowerShell, Networking, Security,
+CI/CD, Microservices, Serverless, Machine Learning, Big Data, and more.
+
+EXPERIENCE
+
+Cloud Engineer — StartupXYZ, Mumbai
+Jan 2023 – Present (1.5 years)
+
+- AWS: EC2, S3, RDS, Lambda, VPC, IAM, CloudWatch, CloudFormation, EKS, ECS, Fargate,
+  DynamoDB, SQS, SNS, Route 53, WAF, Shield, Macie, GuardDuty, Inspector, Config, Trusted Advisor.
+- Azure: VMs, VNet, Azure SQL, Blob, AKS, Azure AD, DevOps.
+- GCP: Compute Engine, Cloud Storage, GKE, BigQuery.
+- Kubernetes: managed production clusters with 500+ pods across 3 environments.
+- Terraform: wrote modules for all infrastructure, 100% IaC coverage.
+- Linux: expert-level Ubuntu, CentOS, RHEL, Kali administration.
+- Security: implemented zero-trust architecture, SOC2 compliance, PCI-DSS, HIPAA.
+- CI/CD: Jenkins, GitHub Actions, GitLab CI, CircleCI, ArgoCD, Spinnaker.
+- Monitoring: CloudWatch, Prometheus, Grafana, ELK, Splunk, Datadog, New Relic.
+- Networking: designed BGP routing, OSPF, MPLS networks.
+
+Projects:
+- Built a microservices platform serving 10M users.
+- Reduced cloud costs by 70% through optimization.
+- Achieved 99.999% uptime across all systems.
+
+EDUCATION
+B.Tech in IT — Private University, Mumbai, 2022 (CGPA: 8.9/10)
+
+SKILLS
+AWS, Azure, GCP, Docker, Kubernetes, Terraform, Ansible, Chef, Puppet, Salt, Jenkins,
+GitHub Actions, GitLab, Python, Go, Rust, Java, Bash, PowerShell, Linux, Windows,
+Networking, Security, Compliance, Machine Learning, AI, Big Data, Kafka, Spark...
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional (claimed)
+- CKA (claimed)
+- Google Cloud Professional (claimed)

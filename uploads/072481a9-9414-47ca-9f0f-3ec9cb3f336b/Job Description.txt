@@ -1,0 +1,44 @@
+About the job
+About The Role
+
+We are looking for an experienced System Engineer (AWS) to design, manage, and optimize secure, scalable, and highly available cloud and on-premise infrastructure. The role requires deep expertise in AWS services, system administration, and infrastructure security, along with strong troubleshooting and operational ownership.
+
+Key Responsibilities
+
+Design, implement, and manage AWS cloud infrastructure including EC2, S3, RDS, Lambda, VPC, IAM, and related services. 
+Monitor system performance, ensure high availability, and proactively resolve infrastructure issues. 
+Implement and enforce security best practices including access control, firewalls, network security, and compliance standards. 
+Plan and manage backup strategies and disaster recovery solutions. 
+Administer and support Linux and Windows servers. 
+Install, configure, and maintain system software, patches, and updates. 
+Automate routine tasks using scripting and infrastructure-as-code where applicable. 
+Support CI/CD pipelines and application deployments in coordination with development teams. 
+Maintain system documentation, architecture diagrams, and operational procedures. 
+Provide L3-level support and root cause analysis for critical incidents. 
+
+Mandatory Technical Skills
+
+Strong hands-on experience with AWS cloud platform 
+EC2, S3, RDS, Lambda, VPC, IAM, CloudWatch 
+Linux & Windows system administration 
+Networking fundamentals (DNS, TCP/IP, Load Balancers, VPN, Firewalls) 
+Backup & disaster recovery planning 
+Security best practices and compliance implementation 
+Monitoring & troubleshooting tools 
+Scripting (Bash / PowerShell / Python – preferred) 
+
+Soft Skills & Other Requirements
+
+Strong analytical and problem-solving abilities 
+Good communication and documentation skills 
+Ability to work independently and manage multiple priorities 
+Experience in production support environments 
+Team-oriented mindset with ownership attitude 
+
+Preferred Qualifications
+
+AWS Certification (Solutions Architect / SysOps / DevOps) – Plus 
+Experience in Agile / DevOps environments 
+Exposure to containerization (Docker/Kubernetes) – Advantage 
+
+Skills: cloud,infrastructure,ec2,devops,security,aws,documentation

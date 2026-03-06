@@ -1,0 +1,61 @@
+MARIA RODRIGUEZ
+Backend Engineer
+maria.r@protonmail.com | (512) 555-8901 | gitlab.com/mrodriguez
+
+SUMMARY
+Backend engineer with 6 years building high-throughput data systems. Specialized in designing fault-tolerant distributed architectures and automating ML deployment workflows. Strong focus on performance optimization and observability.
+
+EXPERIENCE
+
+Staff Backend Engineer | Quantix Analytics | Austin, TX | 2020 - Present
+- Designed async Python web services using Starlette framework, handling 1.8M daily requests with p99 latency under 50ms
+- Built batch processing workflows using Luigi orchestrator, coordinating 200+ daily data transformation jobs across distributed cluster
+- Implemented container orchestration using Nomad, managing 50+ services with zero-downtime deployments
+- Created feature computation engine using Polars dataframe library, achieving 3x speedup over legacy system
+- Developed model deployment automation reducing data scientist deployment time from days to hours
+- Built distributed task queue using Celery with RabbitMQ backend for async ML training jobs
+
+Senior Backend Engineer | StreamData Corp | Dallas, TX | 2018 - 2020
+- Architected event-driven microservices using Python AIOHTTP framework
+- Implemented data streaming pipelines using Apache Pulsar message broker
+- Built ML model serving infrastructure using Seldon Core on container clusters
+- Designed time-series database schema using TimescaleDB (PostgreSQL extension)
+- Created monitoring dashboards using Prometheus and Grafana tracking 500+ metrics
+- Automated infrastructure provisioning using Pulumi (infrastructure as code)
+
+Software Engineer | DataFlow Systems | Houston, TX | 2017 - 2018
+- Developed REST APIs using Falcon Python framework
+- Built data validation pipelines using Great Expectations library
+- Implemented unit testing framework using nose2, achieving 82% coverage
+
+TECHNICAL SKILLS
+Languages: Python (7 years), Go, Rust, SQL
+Web Frameworks: Starlette, AIOHTTP, Falcon, Sanic
+Data Processing: Polars, DuckDB, Apache Beam, Vaex
+Databases: TimescaleDB, CockroachDB, ScyllaDB, KeyDB
+ML Infrastructure: Seldon Core, BentoML, Ray Serve, Weights & Biases
+Orchestration: Luigi, Prefect, Dagster, Nomad, Consul
+Message Systems: Apache Pulsar, NATS, ZeroMQ
+Observability: Prometheus, Grafana, Jaeger, OpenTelemetry
+Infrastructure: Pulumi, Ansible, Packer
+
+PROJECTS
+
+High-Frequency Trading Data Pipeline
+- Built sub-millisecond data ingestion system processing 100k+ events/second
+- Implemented custom binary protocol reducing serialization overhead by 60%
+
+Automated ML Retraining System
+- Designed drift detection system triggering automatic model retraining
+- Reduced model staleness incidents by 90% through proactive monitoring
+
+EDUCATION
+
+Master of Science, Software Engineering | University of Texas at Austin | 2017
+- Research: "Optimizing Distributed Data Pipelines for ML Workloads"
+
+Bachelor of Science, Mathematics | Rice University | 2015
+
+PUBLICATIONS
+- "Scaling Python Web Services: Lessons from Production" - PyCon 2022
+- "Event-Driven Architecture for ML Systems" - MLOps Community Blog

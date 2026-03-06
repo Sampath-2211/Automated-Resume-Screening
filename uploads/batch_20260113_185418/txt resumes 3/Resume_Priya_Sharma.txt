@@ -1,0 +1,68 @@
+PRIYA SHARMA
+Machine Learning Engineer
+priya.sharma@email.com | (408) 555-3456 | linkedin.com/in/priyasharma | github.com/psharma-ml
+
+SUMMARY
+Machine learning engineer with 5 years of experience building and deploying ML systems at scale. Strong Python development skills with expertise in model productionization, data pipelines, and MLOps practices.
+
+EXPERIENCE
+
+Machine Learning Engineer | PredictAI Labs | San Jose, CA | 2021 - Present
+- Built end-to-end ML pipeline using Apache Airflow orchestrating 40+ daily training jobs
+- Developed FastAPI model serving endpoints handling 800k predictions daily
+- Implemented feature store using Redis reducing inference latency from 200ms to 45ms
+- Created MLflow tracking infrastructure for experiment management across 15 data scientists
+- Deployed models on Kubernetes cluster with auto-scaling based on traffic patterns
+- Built data validation pipelines using Great Expectations catching 95% of data quality issues
+
+ML Platform Engineer | DataScale Inc. | Mountain View, CA | 2019 - 2021
+- Developed Python microservices for ML model deployment using Docker
+- Built ETL pipelines using Pandas processing 20M+ records from multiple data sources
+- Implemented CI/CD pipelines using Jenkins for automated model testing and deployment
+- Created monitoring dashboards tracking model performance metrics and data drift
+- Collaborated with data scientists to optimize scikit-learn and TensorFlow models for production
+
+Data Engineer | AnalyticsCo | Sunnyvale, CA | 2018 - 2019
+- Built data pipelines using Python and SQL for analytics platform
+- Developed Flask APIs for internal data access tools
+- Managed PostgreSQL databases and wrote complex analytical queries
+- Automated reporting workflows using Python scripts and cron jobs
+
+TECHNICAL SKILLS
+Languages: Python (5 years), SQL, Scala (basic), Bash
+ML Frameworks: scikit-learn, TensorFlow, PyTorch, XGBoost, LightGBM
+MLOps: MLflow, Kubeflow, DVC, Weights & Biases
+Data: Pandas, NumPy, PySpark, Dask, Apache Beam
+APIs: FastAPI, Flask, gRPC
+Databases: PostgreSQL, MySQL, Redis, Cassandra
+DevOps: Docker, Kubernetes, GitHub Actions, ArgoCD
+Cloud: AWS (SageMaker, EKS, S3, Lambda), GCP (Vertex AI, BigQuery)
+Orchestration: Apache Airflow, Prefect, Dagster
+
+PROJECTS
+
+Real-time Recommendation Engine
+- Built recommendation system serving 5M+ users with sub-100ms latency
+- Implemented A/B testing framework for model comparison
+- Achieved 28% improvement in click-through rate
+
+Automated Model Retraining Pipeline
+- Designed Airflow DAG for weekly model retraining with validation gates
+- Implemented automatic rollback on performance degradation
+- Reduced model deployment incidents by 75%
+
+EDUCATION
+
+Master of Science, Computer Science | San Jose State University | 2018
+- Specialization: Machine Learning and Data Mining
+
+Bachelor of Technology, Computer Science | IIT Delhi | 2016
+
+CERTIFICATIONS
+- AWS Machine Learning Specialty (2023)
+- Google Professional ML Engineer (2022)
+- Certified Kubernetes Administrator (2022)
+
+PUBLICATIONS
+- "Scaling ML Pipelines with Airflow" - Towards Data Science (2023)
+- "Feature Store Design Patterns" - MLOps Community (2022)

@@ -1,0 +1,61 @@
+SARAH CHEN
+Senior Software Engineer
+san.francisco.ca@email.com | (415) 555-0142 | linkedin.com/in/sarahchen | github.com/schen-dev
+
+SUMMARY
+Senior Python developer with 7 years of experience building scalable data platforms and ML infrastructure. Led development of real-time prediction APIs serving 2M+ requests daily. Passionate about clean code, automated testing, and DevOps best practices.
+
+EXPERIENCE
+
+Senior Software Engineer | DataMind Inc. | San Francisco, CA | 2021 - Present
+- Architected and built a FastAPI-based model serving platform handling 2.3 million predictions per day with 99.9% uptime
+- Designed ETL pipelines using Apache Airflow processing 50TB of daily data from multiple sources
+- Implemented Kubernetes deployment strategies reducing deployment time from 2 hours to 15 minutes
+- Built real-time feature store using Redis, reducing model inference latency by 40%
+- Mentored team of 4 junior developers, conducting weekly code reviews and pair programming sessions
+- Established CI/CD pipelines using GitHub Actions, achieving 95% test coverage across all services
+
+Software Engineer | CloudScale Systems | San Jose, CA | 2018 - 2021
+- Developed RESTful APIs using Flask serving machine learning models to enterprise clients
+- Built data processing pipelines using Pandas and NumPy, processing 10M+ records daily
+- Containerized 15+ microservices using Docker, reducing environment inconsistencies by 80%
+- Implemented message queue architecture using RabbitMQ for async model training jobs
+- Collaborated with data science team to productionize 8 ML models using scikit-learn and TensorFlow
+- Wrote comprehensive pytest test suites, increasing code coverage from 45% to 88%
+
+Junior Software Engineer | TechStart Labs | Palo Alto, CA | 2017 - 2018
+- Developed Python scripts for data cleaning and preprocessing
+- Built internal dashboards using Flask and PostgreSQL
+- Participated in agile ceremonies and sprint planning
+
+TECHNICAL SKILLS
+Languages: Python (expert), SQL, Bash, JavaScript
+Frameworks: FastAPI, Flask, Django, Celery
+Data: Pandas, NumPy, SQLAlchemy, PostgreSQL, MySQL, Redis
+ML/AI: scikit-learn, TensorFlow, PyTorch, MLflow
+DevOps: Docker, Kubernetes, GitHub Actions, Jenkins, Terraform
+Cloud: AWS (EC2, S3, Lambda, EKS, RDS), GCP (BigQuery, Cloud Run)
+Tools: Apache Airflow, Kafka, RabbitMQ, Elasticsearch, Grafana
+
+PROJECTS
+
+Open Source ML Pipeline Framework (github.com/schen-dev/mlpipe)
+- Created Python library for standardizing ML pipeline deployment, 1.2k GitHub stars
+- Implements automatic model versioning, A/B testing, and rollback capabilities
+
+Real-time Fraud Detection System
+- Built end-to-end fraud detection pipeline processing 500k transactions/hour
+- Reduced false positive rate by 35% through feature engineering improvements
+
+EDUCATION
+
+Master of Science, Computer Science | Stanford University | 2017
+- Focus: Distributed Systems and Machine Learning
+- Thesis: "Efficient Model Serving at Scale"
+
+Bachelor of Science, Computer Science | UC Berkeley | 2015
+- GPA: 3.8/4.0, Dean's List
+
+CERTIFICATIONS
+- AWS Solutions Architect - Professional (2023)
+- Certified Kubernetes Administrator (CKA) (2022)

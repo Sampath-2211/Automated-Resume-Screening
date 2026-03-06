@@ -1,0 +1,340 @@
+{
+  "metadata": {
+    "timestamp": "2026-01-07T14:10:38.238878",
+    "processing_time_seconds": 0.205337,
+    "llm_model": "phi3:mini",
+    "llm_temperature": 0.1,
+    "llm_seed": 42
+  },
+  "statistics": {
+    "total_resumes": 10,
+    "phase1_filtered": 6,
+    "phase2_evaluated": 6
+  },
+  "job_requirements": {
+    "mandatory_skills": [
+      "Python",
+      "Java"
+    ],
+    "bonus_skills": [
+      "AWS",
+      "Docker"
+    ],
+    "experience_years": 3,
+    "education_level": "Bachelor's degree"
+  },
+  "final_rankings": [
+    {
+      "name": "Lavanya resume - Pothireddy Lavanya 22246889101",
+      "filename": "Lavanya resume - Pothireddy Lavanya 22246889101.pdf",
+      "phase1_rrf_score": 0.0318,
+      "phase1_semantic_score": 0.0624,
+      "phase1_keyword_score": 1.0,
+      "phase2_detailed_scores": [
+        {
+          "skill": "Python",
+          "question": "Does resume show hands-on Python experience?",
+          "score": 2,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 4.0
+        },
+        {
+          "skill": "Java",
+          "question": "Does resume show hands-on Java experience?",
+          "score": 2,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 4.0
+        },
+        {
+          "skill": "AWS",
+          "question": "Has AWS experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        },
+        {
+          "skill": "Docker",
+          "question": "Has Docker experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        }
+      ],
+      "phase2_raw_total": 8.0,
+      "phase2_max_possible": 12.0,
+      "final_score": 6.67,
+      "strengths": "['Python Developer experience at OASIS with automation and data processing', 'Java Development role at LETSGROWMORE focusing on performance optimization']",
+      "gaps": "['Lack of AWS or Docker experience which are valuable in the industry for cloud-based solutions and containerization.']",
+      "summary": "The resume demonstrates strong hands-on Python and Java development skills, but lacks direct evidence of AWS or Docker expertise that could be beneficial for a technical role requiring those competencies.",
+      "final_rank": 1
+    },
+    {
+      "name": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101",
+      "filename": "Theekshani_resumeupdated - Chappidi Theekshani 22110333101.pdf",
+      "phase1_rrf_score": 0.0325,
+      "phase1_semantic_score": 0.0691,
+      "phase1_keyword_score": 1.0,
+      "phase2_detailed_scores": [
+        {
+          "skill": "Python",
+          "question": "Does resume show hands-on Python experience?",
+          "score": 1,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 2.0
+        },
+        {
+          "skill": "Java",
+          "question": "Does resume show hands-on Java experience?",
+          "score": 2,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 4.0
+        },
+        {
+          "skill": "AWS",
+          "question": "Has AWS experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        },
+        {
+          "skill": "Docker",
+          "question": "Has Docker experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        }
+      ],
+      "phase2_raw_total": 6.0,
+      "phase2_max_possible": 12.0,
+      "final_score": 5.0,
+      "strengths": "['Java-based Task Management Application development and testing methodologies.', 'Leadership in Academic Projects with a focus on AI Model for Image Sharpening.']",
+      "gaps": "['No direct evidence of AWS or Docker experience']",
+      "summary": "The resume demonstrates strong hands-on experiences in Java, but lacks explicit mention of Python and cloud services like AWS/Docker which are valuable skills in the tech industry.",
+      "final_rank": 2
+    },
+    {
+      "name": "RESUME-2",
+      "filename": "RESUME-2.pdf",
+      "phase1_rrf_score": 0.0321,
+      "phase1_semantic_score": 0.088,
+      "phase1_keyword_score": 1.0,
+      "phase2_detailed_scores": [
+        {
+          "skill": "Python",
+          "question": "Does resume show hands-on Python experience?",
+          "score": 2,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 4.0
+        },
+        {
+          "skill": "Java",
+          "question": "Does resume show hands-on Java experience?",
+          "score": 1,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 2.0
+        },
+        {
+          "skill": "AWS",
+          "question": "Has AWS experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        },
+        {
+          "skill": "Docker",
+          "question": "Has Docker experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        }
+      ],
+      "phase2_raw_total": 6.0,
+      "phase2_max_possible": 12.0,
+      "final_score": 5.0,
+      "strengths": "['Hands-on Python experience with AI/ML projects.', \"Bachelor's degree in Computer Science & Engineering.\"]",
+      "gaps": "['Lack of direct AWS and Docker experience', 'No mention of hands-on Java or C programming skills']",
+      "summary": "The resume demonstrates a strong foundation in Python for AI/ML projects, but lacks evidence of practical experience with JavaScript frameworks like React.js.",
+      "final_rank": 3
+    },
+    {
+      "name": "Pavithra - Mallangi Pavithra 22105694101",
+      "filename": "Pavithra - Mallangi Pavithra 22105694101.pdf",
+      "phase1_rrf_score": 0.0309,
+      "phase1_semantic_score": 0.0255,
+      "phase1_keyword_score": 1.0,
+      "phase2_detailed_scores": [
+        {
+          "skill": "Python",
+          "question": "Does resume show hands-on Python experience?",
+          "score": 1,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 2.0
+        },
+        {
+          "skill": "Java",
+          "question": "Does resume show hands-on Java experience?",
+          "score": 2,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 4.0
+        },
+        {
+          "skill": "AWS",
+          "question": "Has AWS experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        },
+        {
+          "skill": "Docker",
+          "question": "Has Docker experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        }
+      ],
+      "phase2_raw_total": 6.0,
+      "phase2_max_possible": 12.0,
+      "final_score": 5.0,
+      "strengths": "['Python programming experience with a focus on AI and machine learning projects', 'Strong educational background in Computer Science']",
+      "gaps": "['Lack of direct hands-on Docker experience mentioned explicitly.', 'No mention of specific experiences or skills related to Android Studio, Flutter, RoboPlus tools.']",
+      "summary": "The resume demonstrates a strong foundation in computer science with relevant project work and internship experience but lacks explicit evidence of hands-on Docker expertise. Additional practical exposure through projects using the mentioned development platforms would enhance employability for technical roles requiring comprehensive tool proficiency.",
+      "final_rank": 4
+    },
+    {
+      "name": "Sampath_CV",
+      "filename": "Sampath_CV.pdf",
+      "phase1_rrf_score": 0.0311,
+      "phase1_semantic_score": 0.0797,
+      "phase1_keyword_score": 0.5,
+      "phase2_detailed_scores": [
+        {
+          "skill": "Python",
+          "question": "Does resume show hands-on Python experience?",
+          "score": 1,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 2.0
+        },
+        {
+          "skill": "Java",
+          "question": "Does resume show hands-on Java experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 0.0
+        },
+        {
+          "skill": "AWS",
+          "question": "Has AWS experience?",
+          "score": 1,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 1.0
+        },
+        {
+          "skill": "Docker",
+          "question": "Has Docker experience?",
+          "score": 2,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 2.0
+        }
+      ],
+      "phase2_raw_total": 5.0,
+      "phase2_max_possible": 12.0,
+      "final_score": 4.17,
+      "strengths": "['Hands-on Python experience with LangChain and Docker deployment.', 'Proven ability to translate complex technical workflows into user-friendly AI systems.']",
+      "gaps": "['Lack of hands-on Java experience', 'No direct mention or evidence of AWS experience']",
+      "summary": "The candidate has strong Python skills with relevant industry and academic experiences but lacks demonstrated Java expertise, which is a gap for this role. The resume does not provide any information about AWS experience.",
+      "final_rank": 5
+    },
+    {
+      "name": "Karanam Hareesa Resume - Hareesa Karanam 22107351101",
+      "filename": "Karanam Hareesa Resume - Hareesa Karanam 22107351101.pdf",
+      "phase1_rrf_score": 0.032,
+      "phase1_semantic_score": 0.0743,
+      "phase1_keyword_score": 1.0,
+      "phase2_detailed_scores": [
+        {
+          "skill": "Python",
+          "question": "Does resume show hands-on Python experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 0.0
+        },
+        {
+          "skill": "Java",
+          "question": "Does resume show hands-on Java experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 2.0,
+          "type": "mandatory",
+          "weighted_contribution": 0.0
+        },
+        {
+          "skill": "AWS",
+          "question": "Has AWS experience?",
+          "score": 1,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 1.0
+        },
+        {
+          "skill": "Docker",
+          "question": "Has Docker experience?",
+          "score": 0,
+          "max_score": 2,
+          "weight": 1.0,
+          "type": "bonus",
+          "weighted_contribution": 0.0
+        }
+      ],
+      "phase2_raw_total": 1.0,
+      "phase2_max_possible": 12.0,
+      "final_score": 0.83,
+      "strengths": "['Strong foundation in Computer Science and hands-on experience in Web Development', 'Passion for building impactful products that solve real world problems']",
+      "gaps": "['Lack of direct Python or Java programming experience as required. No evidence found on AWS, Docker experiences.']",
+      "summary": "While the candidate has a strong educational background and hands-on web development skills, they lack specific technical expertise in mandatory areas such as Python/Java and cloud technologies like AWS which are crucial for this role.",
+      "final_rank": 6
+    }
+  ]
+}

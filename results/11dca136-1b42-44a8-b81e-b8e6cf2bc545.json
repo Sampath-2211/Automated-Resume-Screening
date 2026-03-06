@@ -1,0 +1,1451 @@
+{
+  "success": true,
+  "processing_time_seconds": 51.3,
+  "total_candidates": 8,
+  "llm_evaluated_count": 8,
+  "job_title": "Generative AI Engineer",
+  "seniority": "mid",
+  "evaluation_criteria": [
+    {
+      "id": 1,
+      "criterion": "Experience with LangGraph",
+      "category": "critical",
+      "weight": 5,
+      "what_counts_as_5": "Direct experience with LangGraph, including designing and implementing stateful, multi-agent architectures.",
+      "what_counts_as_0": "No experience with LangGraph or similar orchestration frameworks."
+    },
+    {
+      "id": 2,
+      "criterion": "Python Programming Skills",
+      "category": "critical",
+      "weight": 5,
+      "what_counts_as_5": "Strong proficiency in Python, including experience with advanced concepts and libraries.",
+      "what_counts_as_0": "Limited or no experience with Python programming."
+    },
+    {
+      "id": 3,
+      "criterion": "Experience with Small Language Models (SLMs)",
+      "category": "critical",
+      "weight": 5,
+      "what_counts_as_5": "Direct experience with deploying and optimizing SLMs, such as Mistral or Llama, for local inference tasks.",
+      "what_counts_as_0": "No experience with SLMs or similar AI models."
+    },
+    {
+      "id": 4,
+      "criterion": "Backend Engineering Skills",
+      "category": "important",
+      "weight": 3,
+      "what_counts_as_5": "Strong experience with backend engineering, including WebSockets, API development, and SQL optimization.",
+      "what_counts_as_0": "Limited or no experience with backend engineering concepts."
+    },
+    {
+      "id": 5,
+      "criterion": "Experience with Containerization (Docker)",
+      "category": "important",
+      "weight": 3,
+      "what_counts_as_5": "Direct experience with containerization using Docker, including ensuring production-ready and portable AI services.",
+      "what_counts_as_0": "No experience with containerization or Docker."
+    },
+    {
+      "id": 6,
+      "criterion": "Real-Time System Design Experience",
+      "category": "important",
+      "weight": 3,
+      "what_counts_as_5": "Experience with designing scalable backend systems that support low-latency communication using WebSockets.",
+      "what_counts_as_0": "No experience with real-time system design or low-latency communication."
+    },
+    {
+      "id": 7,
+      "criterion": "Education in Computer Science or Data Science",
+      "category": "important",
+      "weight": 3,
+      "what_counts_as_5": "Bachelor's degree in Computer Science, with a preference for candidates pursuing a degree or certification in Data Science.",
+      "what_counts_as_0": "No relevant education or certifications in Computer Science or Data Science."
+    },
+    {
+      "id": 8,
+      "criterion": "Experience with LangChain",
+      "category": "preferred",
+      "weight": 1,
+      "what_counts_as_5": "Direct experience with LangChain, including utilizing advanced orchestration frameworks for managing cyclic graphs and state between agent interactions.",
+      "what_counts_as_0": "No experience with LangChain or similar frameworks."
+    },
+    {
+      "id": 9,
+      "criterion": "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)",
+      "category": "preferred",
+      "weight": 1,
+      "what_counts_as_5": "Experience with or knowledge of quantized models, including Mistral 7B or Phi-3.",
+      "what_counts_as_0": "No experience or knowledge of quantized models."
+    },
+    {
+      "id": 10,
+      "criterion": "DevOps Experience",
+      "category": "preferred",
+      "weight": 1,
+      "what_counts_as_5": "Experience with DevOps practices, including ensuring production-ready and portable AI services.",
+      "what_counts_as_0": "No experience with DevOps practices."
+    },
+    {
+      "id": 11,
+      "criterion": "Experience with Autonomous Agents",
+      "category": "preferred",
+      "weight": 1,
+      "what_counts_as_5": "Experience with designing and implementing autonomous agents capable of function calling and multi-step reasoning.",
+      "what_counts_as_0": "No experience with autonomous agents."
+    },
+    {
+      "id": 12,
+      "criterion": "Experience with Multi-Agent Architectures",
+      "category": "preferred",
+      "weight": 1,
+      "what_counts_as_5": "Experience with designing and implementing multi-agent architectures for complex query answering.",
+      "what_counts_as_0": "No experience with multi-agent architectures."
+    },
+    {
+      "id": 13,
+      "criterion": "Experience with Stateful Architectures",
+      "category": "preferred",
+      "weight": 1,
+      "what_counts_as_5": "Experience with designing and implementing stateful architectures for AI models.",
+      "what_counts_as_0": "No experience with stateful architectures."
+    },
+    {
+      "id": 14,
+      "criterion": "Experience with Agile Development Methodologies",
+      "category": "preferred",
+      "weight": 1,
+      "what_counts_as_5": "Experience with agile development methodologies, including iterative development and continuous improvement.",
+      "what_counts_as_0": "No experience with agile development methodologies."
+    },
+    {
+      "id": 15,
+      "criterion": "Certifications in AI or Machine Learning",
+      "category": "preferred",
+      "weight": 1,
+      "what_counts_as_5": "Relevant certifications in AI or machine learning, such as certifications in deep learning or natural language processing.",
+      "what_counts_as_0": "No relevant certifications in AI or machine learning."
+    }
+  ],
+  "results": [
+    {
+      "name": "Sampath",
+      "filename": "Sampath.pdf",
+      "content": "Sampath Krishna Tekumalla Bengaluru, India 561203 \u2022 +91-9490523667 \u2022 kittu.tekumalla@gmail.com \u2022 linkedin.com/in/sampath2211 \u2022 github.com/Sampath-2211 # EXECUTIVE SUMMARY Final-year Computer Science student specializing in multi-agent AI workflows with hands-on experience in LangChain, LangGraph, and Docker. Passionate about building scalable LLM-powered applications. Proven ability to translate complex technical workflows into user-friendly, production-ready AI systems through academic research and industry experience at the National Remote Sensing Center, ISRO. # EDUCATION | Gitam University - CGPA: 8.36 | Sep 2022 - Apr 2026 | | ------------------------------------------------------------------------------------------------------------------------ | ------------------- | | Bachelor of Technology in Computer Science Engineering | Bengaluru, India | | Coursework: DSA, Operating Systems, Computer Networks, DBMS, Design and Analysis of Algorithms, Artificial Intelligence. | | | Indian Institute of Technology, Madras - CGPA: 7.0 | Sep 2023 - Apr 2027 | | Bachelor of Science in Data Science | Remote | | Coursework: Mathematics, Probability and Statistics, Computational Intelligence, Python. | | # WORK EXPERIENCE # National Remote Sensing Center, ISRO May 2025 - August 2025 AI Engineer Intern, Earth and Climate Sciences Area (ECSA) - Hyderabad, India # Agentic AI For Satellite Geospatial Data Inference Advisors: Rounaq Goenka - Situation: Geospatial data analysis required technical expertise, preventing non-technical users from accessing insights from spatial datasets through complex programming requirements. - Task: To build an AI system enabling users to analyse geospatial data through simple natural language queries without domain expertise. - Action: Integrated LangChain for function-calling capabilities, architected a modular workflow with LangGraph, and deployed Mistral 7B for natural language query processing and response generation, alongside Phi-3 Mini for Python code generation. - Result: Successfully built an AI-powered application that democratizes geospatial analysis, allowing non-technical users to obtain insights through conversational queries. # SKILLS PROGRAMMING LANGUAGES AND LIBRARIES: C, Python, NumPy, Pandas, Matplotlib, SQL. SOFTWARE TOOLS: OnlineGDB, Google Colab, Visual Studio Code, Anaconda-Navigator, Docker. AI/ML FRAMEWORKS: LangChain, LangGraph, Ollama # PROJECTS # Vehicle Data Management System for Autonomous Vehicles Jul, 2024 - Oct, 2024 - Engineered a structured database to store and manage vehicle GPS data, sensor readings, and system status for real-time monitoring. - Structured SQL tables and optimized query structures to enable efficient tracking of vehicle locations, battery levels, and engine performance. - Developed automated logging and data organization processes, reducing manual data retrieval time by 50%. - Implemented SQL views and joins to streamline fleet management, improving reporting accuracy and data-driven decision-making. # Real Time Communication with Multiple Clients and Server GitHub Mar, 2024 - Aug, 2024 - Architected and developed a WebSocket-based real-time chat system supporting simultaneous multi-client communication, boosting collaboration efficiency. - Optimized server response times, reducing message latency to under 100ms to ensure smooth, real-time interactions. - Created an interactive and secure HTML-based interface with access control features, enhancing authentication and user security. - Incorporated file-sharing functionality with permission-based access, improving data protection and preventing unauthorized usage. # CERTIFICATIONS - Google Cloud - Google Cloud Computing Foundations: Cloud Computing Fundamentals - Google Cloud - Google Cloud Computing Foundations: Infrastructure in Google Cloud - Python Programming - Programming for Everybody (Getting Started with Python) - University of Michigan # WORKSHOPS - Participated in the \u201cCode, Create &#x26; Conquer \u2013 Unleash Your Brilliance\u201d Hackfest, organized by the Department of Computer Science and Engineering at GITAM (Deemed to be University), Bengaluru, from October 13\u201315, 2023. - As a member of the Software-Defined Vehicles section at MURTHI LAB, I had the opportunity to demonstrate a self-designed autonomous buggy developed in collaboration with VIRYA Technologies and Infosys at the \u201cConnected, Autonomous &#x26; Electric Vehicle EXPO 2025\u201d, held at KTPO, Bengaluru, on April 24\u201325, 2025 \u2014 showcasing real-time navigation capabilities to CEOs and industry leaders. # EXTRA-CURRICULAR ACTIVITIES - Technical Lead of G-Studio, the official photography club of GITAM University Bangalore, overseeing technical operations and providing support for photography events since August 2024 \u2013 May 2025. - Silver Medalist in school-level badminton competition; active player representing college events. - Secured 1st place in a school-wide painting competition while in 5th grade, outperforming senior grades up to 10th.",
+      "metadata": {
+        "filename": "Sampath.pdf",
+        "page_count": 1,
+        "extraction_method": "llamaparse",
+        "confidence_score": 0.95,
+        "sections_detected": [
+          "experience",
+          "education",
+          "skills",
+          "projects",
+          "summary",
+          "certifications"
+        ]
+      },
+      "semantic_score": 67.75,
+      "keyword_score": 37.14,
+      "keyword_matches": {
+        "Python": {
+          "count": 5,
+          "score": 5.0
+        },
+        "LangGraph": {
+          "count": 3,
+          "score": 4.0
+        },
+        "LangChain": {
+          "count": 3,
+          "score": 4.0
+        }
+      },
+      "keywords_found": 3,
+      "semantic_rank": 1,
+      "keyword_rank": 1,
+      "rrf_score": 0.032787,
+      "phase1_rank": 1,
+      "raw_scores": [
+        5,
+        5,
+        5,
+        4,
+        5,
+        4,
+        5,
+        5,
+        5,
+        2,
+        2,
+        3,
+        3,
+        2,
+        2
+      ],
+      "score_breakdown": {
+        "Experience with LangGraph": {
+          "score": 5,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Integrated LangChain for function-calling capabilities, architected a modular workflow with LangGraph"
+        },
+        "Python Programming Skills": {
+          "score": 5,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Proven ability to translate complex technical workflows into user-friendly, production-ready AI systems"
+        },
+        "Experience with Small Language Models (SLMs)": {
+          "score": 5,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Deployed Mistral 7B for natural language query processing and response generation"
+        },
+        "Backend Engineering Skills": {
+          "score": 4,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Developed automated logging and data organization processes, reducing manual data retrieval time by 50%"
+        },
+        "Experience with Containerization (Docker)": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Engineered a structured database to store and manage vehicle GPS data, sensor readings, and system status"
+        },
+        "Real-Time System Design Experience": {
+          "score": 4,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Optimized server response times, reducing message latency to under 100ms"
+        },
+        "Education in Computer Science or Data Science": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Bachelor of Technology in Computer Science Engineering, Gitam University"
+        },
+        "Experience with LangChain": {
+          "score": 5,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Experience with LangChain, LangGraph, and Docker"
+        },
+        "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)": {
+          "score": 5,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Knowledge of quantized models, including Mistral 7B"
+        },
+        "DevOps Experience": {
+          "score": 2,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Mention of DevOps practices, but no direct evidence"
+        },
+        "Experience with Autonomous Agents": {
+          "score": 2,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Mention of autonomous agents, but no direct evidence"
+        },
+        "Experience with Multi-Agent Architectures": {
+          "score": 3,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Experience with multi-agent architectures through academic projects"
+        },
+        "Experience with Stateful Architectures": {
+          "score": 3,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Experience with stateful architectures through academic projects"
+        },
+        "Experience with Agile Development Methodologies": {
+          "score": 2,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Mention of agile development methodologies, but no direct evidence"
+        },
+        "Certifications in AI or Machine Learning": {
+          "score": 2,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Mention of certifications in AI or machine learning, but no direct evidence"
+        }
+      },
+      "final_score": 87,
+      "strengths": [
+        "Strong proficiency in Python",
+        "Experience with LangGraph and LangChain",
+        "Ability to design and implement scalable backend systems",
+        "Knowledge of quantized models",
+        "Experience with containerization using Docker"
+      ],
+      "weaknesses": [
+        "Limited experience with DevOps practices",
+        "Limited experience with autonomous agents",
+        "Limited experience with multi-agent architectures",
+        "Limited experience with stateful architectures",
+        "Limited certifications in AI or machine learning"
+      ],
+      "red_flags": [
+        "No direct experience with large-scale AI model deployment",
+        "No direct experience with real-time system design for critical applications",
+        "No mention of experience with cloud-based AI services"
+      ],
+      "overall_fit": "good",
+      "summary": "Sampath has strong hands-on experience with LangGraph, LangChain, and Docker, and has demonstrated the ability to design and implement scalable backend systems. However, there are some gaps in experience with DevOps practices, autonomous agents, and multi-agent architectures. Overall, Sampath is a strong fit for the Generative AI Engineer role.",
+      "eval_rank": 1,
+      "final_rank": 1,
+      "recommendation": "strongly_recommend",
+      "ranking_reason": "Strong proficiency in Python"
+    },
+    {
+      "name": "Gulfam",
+      "filename": "Gulfam.pdf",
+      "content": "S K Mohammed Gulfam Hassan #01, MRV layout, Moka road, Gandhi nagar, Ballari, Karnataka, India - 583101. +91 9110642859 | gulfamhassansk@gmail.com| Linkedin # Education Gitam University, Bengaluru, India Bachelor of Technology in Computer Science Engineering, Apr 2026 Relevant Coursework: Data Structures, Operating Systems, Computer Networks, Database Management Systems, Design and Analysis of Algorithms, Prompt Engineering, Artificial Intelligence. # Skills Programming: C, Python, SQL. Software Tools: OnlineGDB, VS code, Autodesk Fusion 360, Google colab, Advance excel, ChatGPT, Power BI. Algorithmic Proficiency: Data Structures and Algorithms (DSA), Database Management Systems (DBMS). # Experience # Data Annotation / Research Intern \u2013 PathVision Innovations Private Limited Bangalore, India | April 2025 \u2013 July 2025 - Annotated video frames to train object detection models for autonomous driving. - Developed a lane detection algorithm to enhance navigation accuracy in driver-less systems. - Conducted comparative analysis of hardware components and sensors used in self-driving cars across Indian and Chinese manufacturers. - Designed a comprehensive visual report evaluating cost, performance, and reliability of components. - Created a Python-based tool to convert XML annotations into fully annotated video outputs using raw frames. # Projects # Real-Time Communication with Multiple Clients and Server - Designed a WebSocket-based real-time chat system supporting multi-client communication. - Optimized server response times, reducing message latency to under 100 ms. - Developed a chat application using Node.js and Web Socket for real-time client-server communication. # Lane Detection System for Autonomous Navigation - Built a computer vision pipeline for detecting lane lines in video frames using OpenCV and NumPy. - Applied edge detection, region masking, and Hough Transform for robust lane identification. - Designed to assist self-driving navigation systems by providing real-time visual lane tracking. # Object Detection Framework for Road Scene Understanding - Developed an object detection system to identify vehicles, pedestrians, and traffic signs in annotated video data. - Trained models on labeled frames to improve detection accuracy in dynamic road environments. - Enhanced environmental perception for autonomous driving through frame-wise object tracking. # Deep fake Detection System - Developed and implemented a deepfake detection system using Python and deep learning techniques to differentiate between real and synthetic videos. - Utilized OpenCV for face detection and video frame extraction, and applied pre-trained models for feature extraction and face analysis (using DeepFace). # Certifications - Python essentials provided by Cisco Networking Academy in collaboration with OpenEDG Python Institution. Link - Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation on Forage. Link - Python Crash Course: Dive into Coding with Hands-On Projects Link - What is Data Science by IBM Link # Workshops - Participated in \u2018Code, Create &#x26; Conquer\u2019 Hackfest held on Oct\u201923 organized by Department of CSE, GITAM(Deemed to be University), Bengaluru. - Participated in Smart India Hackathon 2024 organized by MOE\u2019S Innovation Cell and E - Club, GITAM(Deemed to be University), Bengaluru. # Extra-Curricular Activities - Led and managed 50+ events at GITAM University, demonstrating strong leadership, teamwork, and event management skills in organizing seminars, workshops, and cultural fests. - Photography Lead, G-Studio (Media Club, GITAM University, Bengaluru). - Badminton Player | District-Level Runner-Up (Ballari District Tournament - 2019).",
+      "metadata": {
+        "filename": "Gulfam.pdf",
+        "page_count": 2,
+        "extraction_method": "llamaparse",
+        "confidence_score": 0.95,
+        "sections_detected": [
+          "experience",
+          "education",
+          "skills",
+          "projects",
+          "certifications"
+        ]
+      },
+      "semantic_score": 25.54,
+      "keyword_score": 14.29,
+      "keyword_matches": {
+        "Python": {
+          "count": 6,
+          "score": 5.0
+        }
+      },
+      "keywords_found": 1,
+      "semantic_rank": 8,
+      "keyword_rank": 2,
+      "rrf_score": 0.030835,
+      "phase1_rank": 5,
+      "raw_scores": [
+        0,
+        4,
+        0,
+        3,
+        1,
+        3,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score_breakdown": {
+        "Experience with LangGraph": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with LangGraph mentioned"
+        },
+        "Python Programming Skills": {
+          "score": 4,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Strong Python skills demonstrated through projects and certifications"
+        },
+        "Experience with Small Language Models (SLMs)": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with Small Language Models mentioned"
+        },
+        "Backend Engineering Skills": {
+          "score": 3,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Backend engineering skills demonstrated through real-time chat system project"
+        },
+        "Experience with Containerization (Docker)": {
+          "score": 1,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Mention of containerization but no direct experience"
+        },
+        "Real-Time System Design Experience": {
+          "score": 3,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Real-time system design experience through WebSocket-based chat system"
+        },
+        "Education in Computer Science or Data Science": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Bachelor's degree in Computer Science from Gitam University"
+        },
+        "Experience with LangChain": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with LangChain mentioned"
+        },
+        "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No knowledge of quantized models mentioned"
+        },
+        "DevOps Experience": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No DevOps experience mentioned"
+        },
+        "Experience with Autonomous Agents": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with autonomous agents mentioned"
+        },
+        "Experience with Multi-Agent Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with multi-agent architectures mentioned"
+        },
+        "Experience with Stateful Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with stateful architectures mentioned"
+        },
+        "Experience with Agile Development Methodologies": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with agile development methodologies mentioned"
+        },
+        "Certifications in AI or Machine Learning": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Certifications in Python and data visualization, but not directly in AI or machine learning"
+        }
+      },
+      "final_score": 32,
+      "strengths": [
+        "Strong Python skills",
+        "Real-time system design experience",
+        "Leadership and teamwork skills",
+        "Experience with computer vision and object detection",
+        "Certifications in Python and data visualization"
+      ],
+      "weaknesses": [
+        "No experience with LangGraph or Small Language Models",
+        "Limited experience with containerization and DevOps",
+        "No experience with autonomous agents or multi-agent architectures",
+        "No experience with stateful architectures",
+        "No direct certifications in AI or machine learning"
+      ],
+      "red_flags": [
+        "Lack of experience with critical technologies like LangGraph and Small Language Models",
+        "Limited experience with containerization and DevOps",
+        "No experience with autonomous agents or multi-agent architectures"
+      ],
+      "overall_fit": "moderate",
+      "summary": "Gulfam has strong Python skills and experience with real-time system design, computer vision, and object detection. However, he lacks experience with critical technologies like LangGraph and Small Language Models, and has limited experience with containerization and DevOps. He has certifications in Python and data visualization, but not directly in AI or machine learning. Overall, he is a moderate fit for the Generative AI Engineer role.",
+      "eval_rank": 2,
+      "final_rank": 2,
+      "recommendation": "do_not_recommend",
+      "ranking_reason": "Strong Python skills | Gap: No experience with LangGraph or Small Language Mod"
+    },
+    {
+      "name": "Hareesa",
+      "filename": "Hareesa.pdf",
+      "content": "HAREESA KARANAM +91 7207023823 | hareesakaranam123@gmail.com www.linkedin.com/in/karanam-hareesa Kamalanagar, Anantapur, Andhra Pradesh, 515001 # PROFESSIONAL SUMMARY Aspiring Product Manager with a strong foundation in Computer Science and hands on experience in Web Development. Data Analysis and Cross Functional Project Execution. Passionate about building impactful products that solve real world problems, blending technical knowledge with strategic thinking and user-centered design. # EDUCATION | Bachelor of Technology (B.Tech) in Computer Science and engineering | Aug 2022- Present | Gitam University, Bangalore | CGPA - 9.02 | | ------------------------------------------------------------------- | ------------------ | --------------------------------------------------- | ------------ | | PUC \u2013 Science (MPC) | May 2020- May 2022 | Narayana Junior College, Aanantapur, Andhra Pradesh | CGPA - 94.6% | | SSLC | Mar 2020 | Sri Chaitanya School | CGPA - 100% | # CERTIFICATION - AI-ML Internship &#x26; AWS Academy Graduate Certifications - eduskills foundation &#x26; AICTE NEAT (with AWS) - Completed 10 weeks virtual internship focused on AI/ML, gaining hands on experience with AWS Services, ML workflows and cloud foundations. Acquired essential skills for building scalable and data driven products and working with advanced ML tools like Amazon SageMaker. - Deloitte Australia Data Analytics Virtual Internship - Forage - Completed a Data Analytics simulation, applying forensic technology and data analysis techniques. Created data Dashboards using Tableau and used excel for data classification and business insights. - Tata - GenAI Powered Data Analytics Job Simulation - Forage - Obtained certification in generative AI-powered Data analytics, strengthening data driven decision making and analytical capabilities for business insights. - HTML5 and CSS3 Certifications - Infosys Springboard - Strengthened foundation on front end development, enabling a better understanding of user experience and interface design. # TECHNICAL SKILLS | LANGUAGES | C, PYTHON, HTML, CSS, JAVA | | --------- | ----------------------------------------------------------------- | | DATABASES | MySQL, SQL | | TOOLS | VISUAL STUDIO CODE, ONLINE GDB, GOOGLE COLAB, AUTODESK FUSION 360 | | CONCEPTS | DESIGN AND ANALYSIS OF ALGORITHMS, DBMS | # PROJECT # QUIZ WEBSITE FOR QUANTITATIVE AND QUALITATIVE EXAMS March 2025 Designed and implemented a web-based quiz platform to help users prepare for various assessments. Oversaw the end to end product lifecycle from ideation and requirement gathering to user interface design and database management. # HOTEL MANAGEMENT SYSTEM September 2024 Led the development of a hotel management system using SQL and MySQL, improving operational efficiency and customer experience. Coordinated features such as check-ins, room allocation and billing while collaborating with team members to ensure timely delivery. # LANGUAGES | English | Proficient | | ------- | ------------ | | Hindi | Advanced | | Telugu | Native | | Kannada | Intermediate | # STRENGTHS | Analytical Skills | Technical Proficiency | | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | | Proficient in leveraging and analyzing data for effective decision making | Skilled in using tools like Tableau, HTML, CSS, Java, python, SQL and algorithms |",
+      "metadata": {
+        "filename": "Hareesa.pdf",
+        "page_count": 2,
+        "extraction_method": "llamaparse",
+        "confidence_score": 0.95,
+        "sections_detected": [
+          "experience",
+          "education",
+          "skills",
+          "summary",
+          "certifications"
+        ]
+      },
+      "semantic_score": 26.58,
+      "keyword_score": 10.0,
+      "keyword_matches": {
+        "Python": {
+          "count": 2,
+          "score": 3.5
+        }
+      },
+      "keywords_found": 1,
+      "semantic_rank": 6,
+      "keyword_rank": 5,
+      "rrf_score": 0.030536,
+      "phase1_rank": 6,
+      "raw_scores": [
+        0,
+        4,
+        0,
+        3,
+        2,
+        1,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score_breakdown": {
+        "Experience with LangGraph": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with LangGraph mentioned"
+        },
+        "Python Programming Skills": {
+          "score": 4,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Strong proficiency in Python, with experience in data analysis and projects"
+        },
+        "Experience with Small Language Models (SLMs)": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with Small Language Models (SLMs) mentioned"
+        },
+        "Backend Engineering Skills": {
+          "score": 3,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Experience with backend engineering, including SQL and database management"
+        },
+        "Experience with Containerization (Docker)": {
+          "score": 2,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Mention of using tools, but no direct experience with containerization using Docker"
+        },
+        "Real-Time System Design Experience": {
+          "score": 1,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Some experience with real-time system design, but not explicitly mentioned"
+        },
+        "Education in Computer Science or Data Science": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Bachelor's degree in Computer Science, with relevant education and certifications"
+        },
+        "Experience with LangChain": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with LangChain mentioned"
+        },
+        "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No knowledge of quantized models mentioned"
+        },
+        "DevOps Experience": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with DevOps practices mentioned"
+        },
+        "Experience with Autonomous Agents": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with autonomous agents mentioned"
+        },
+        "Experience with Multi-Agent Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with multi-agent architectures mentioned"
+        },
+        "Experience with Stateful Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with stateful architectures mentioned"
+        },
+        "Experience with Agile Development Methodologies": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with agile development methodologies mentioned"
+        },
+        "Certifications in AI or Machine Learning": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Some relevant certifications in AI and machine learning, but not explicitly mentioned as preferred"
+        }
+      },
+      "final_score": 30,
+      "strengths": [
+        "Analytical Skills",
+        "Technical Proficiency",
+        "Strong foundation in Computer Science"
+      ],
+      "weaknesses": [
+        "Lack of experience with LangGraph and SLMs",
+        "Limited experience with containerization and DevOps",
+        "No experience with autonomous agents and multi-agent architectures"
+      ],
+      "red_flags": [
+        "No direct experience with critical technologies like LangGraph and SLMs",
+        "Limited experience with backend engineering and real-time system design",
+        "No experience with preferred technologies like LangChain and quantized models"
+      ],
+      "overall_fit": "poor",
+      "summary": "Hareesa has a strong foundation in Computer Science and some experience with relevant technologies, but lacks direct experience with critical technologies like LangGraph and SLMs, and has limited experience with backend engineering and real-time system design.",
+      "eval_rank": 3,
+      "final_rank": 3,
+      "recommendation": "do_not_recommend",
+      "ranking_reason": "Analytical Skills | Gap: Lack of experience with LangGraph and SLMs"
+    },
+    {
+      "name": "Adnan",
+      "filename": "Adnan.pdf",
+      "content": "MOHAMMAD ADNAN adnan15.md@gmail.com +91 8978508095 Bengaluru, India linkedin # PROFILE SUMMARY Aspiring Software Engineer with hands-on experience in AI/ML, software development, and database management. Proficient in Python, Java, C, and SQL, with a solid foundation in data structures, algorithms, and cloud computing. Passionate about building scalable solutions and solving real-world problems through automation and data-driven insights. Eager to contribute technical and analytical skills to a dynamic and growth-focused team. # WORK EXPERIENCE # Salesforce Developer Intern, SmartBridge (Salesforce-Supported Program) 05/2025 \u2013 07/2025 - Completed an 8-week virtual internship focused on Salesforce development. - Built workflows using Flows and Process Builder; implemented Apex classes and triggers. - Earned Superbadges like Apex Specialist and Process Automation Specialist. - Attended live sessions and worked on real-time CRM scenarios. # AI/ML Virtual Internship, AICTE &#x26; EduSkills 01/2024 \u2013 03/2024 - Developed and optimized machine learning models using TensorFlow and PyTorch. - Handled data cleaning, transformation, and visualization with Pandas, NumPy, and Matplotlib. - Gained experience in model deployment, API integration, and cloud AI solutions. # EDUCATION # B.Tech in Computer Science &#x26; Engineering, GITAM University, Bengaluru, India 08/2022 \u2013 05/2026 CGPA: 8.0 # 12th Grade (MPC), Sri Chaitanya Junior College, Kurnool, India 06/2020 \u2013 03/2022 Percentage: 86.5% # 10th Grade, Sri Lakshmi High School, Kurnool, India 06/2019 \u2013 03/2020 Percentage: 98.6% # TECHNICAL SKILLS | Programming Languages | Databases | | ---------------------------------------------- | --------------------------------------------------------- | | Python, Java, C, SQL | MySQL, MongoDB (basic) | | Frameworks & Libraries | Tools & Platforms | | TensorFlow, PyTorch, Pandas, NumPy, Matplotlib | Jupyter Notebook, Visual Studio Code, Linux, Google Colab | # Soft Skills Problem-Solving, Teamwork, Communication, Time Management # PROJECTS # AI/ML-Based Commodity Price Prediction Built machine learning models to predict prices of agricultural commodities (onion, potato, pulses). Applied data preprocessing and regression models to improve forecasting accuracy. # IoT-Based Gas Controlling System Developed an IoT-based system to monitor and regulate gas distribution networks, enhancing safety and efficiency. Integrated real-time leak detection sensors and automated control for hazard prevention. Designed a user-friendly interface for real-time gas level monitoring and alerts. # CERTIFICATIONS Python Essential - CISCO Data Structures in Python - Coursera C Programming - Coursera Networking Academy - Coursera Effective Problem-Solving and Decision-Making - Coursera",
+      "metadata": {
+        "filename": "Adnan.pdf",
+        "page_count": 2,
+        "extraction_method": "llamaparse",
+        "confidence_score": 0.95,
+        "sections_detected": [
+          "experience",
+          "education",
+          "skills",
+          "projects",
+          "summary",
+          "certifications"
+        ]
+      },
+      "semantic_score": 57.96,
+      "keyword_score": 12.86,
+      "keyword_matches": {
+        "Python": {
+          "count": 4,
+          "score": 4.5
+        }
+      },
+      "keywords_found": 1,
+      "semantic_rank": 2,
+      "keyword_rank": 3,
+      "rrf_score": 0.032002,
+      "phase1_rank": 2,
+      "raw_scores": [
+        0,
+        4,
+        0,
+        2,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score_breakdown": {
+        "Experience with LangGraph": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with LangGraph mentioned"
+        },
+        "Python Programming Skills": {
+          "score": 4,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Strong proficiency in Python through various projects and certifications"
+        },
+        "Experience with Small Language Models (SLMs)": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with Small Language Models (SLMs) mentioned"
+        },
+        "Backend Engineering Skills": {
+          "score": 2,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Some experience with backend engineering through Salesforce development internship"
+        },
+        "Experience with Containerization (Docker)": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with containerization using Docker mentioned"
+        },
+        "Real-Time System Design Experience": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with real-time system design mentioned"
+        },
+        "Education in Computer Science or Data Science": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Bachelor's degree in Computer Science with a CGPA of 8.0"
+        },
+        "Experience with LangChain": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with LangChain mentioned"
+        },
+        "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No knowledge of quantized models mentioned"
+        },
+        "DevOps Experience": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with DevOps practices mentioned"
+        },
+        "Experience with Autonomous Agents": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with autonomous agents mentioned"
+        },
+        "Experience with Multi-Agent Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with multi-agent architectures mentioned"
+        },
+        "Experience with Stateful Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with stateful architectures mentioned"
+        },
+        "Experience with Agile Development Methodologies": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with agile development methodologies mentioned"
+        },
+        "Certifications in AI or Machine Learning": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No certifications in AI or machine learning mentioned (beyond basic Python certifications)"
+        }
+      },
+      "final_score": 23,
+      "strengths": [
+        "Strong proficiency in Python",
+        "Experience with machine learning models",
+        "Bachelor's degree in Computer Science"
+      ],
+      "weaknesses": [
+        "No experience with LangGraph or similar orchestration frameworks",
+        "No experience with Small Language Models (SLMs)",
+        "Limited experience with backend engineering and DevOps practices"
+      ],
+      "red_flags": [
+        "Lack of experience with critical technologies like LangGraph and SLMs",
+        "Limited experience with containerization and real-time system design",
+        "No certifications in AI or machine learning"
+      ],
+      "overall_fit": "poor",
+      "summary": "Adnan has a strong foundation in computer science and Python programming, but lacks experience with critical technologies like LangGraph and Small Language Models. He has some experience with machine learning models and backend engineering, but needs to develop skills in areas like containerization, real-time system design, and DevOps practices to be a strong fit for a Generative AI Engineer role.",
+      "eval_rank": 4,
+      "final_rank": 4,
+      "recommendation": "do_not_recommend",
+      "ranking_reason": "Strong proficiency in Python | Gap: No experience with LangGraph or similar orchestrat"
+    },
+    {
+      "name": "Pavithra",
+      "filename": "Pavithra.pdf",
+      "content": "Bangalore Karnataka India Email: pavithra13082004@gmail.com Phone: +91 9391304581 LinkedIn # Summary Motivated computer science student with skills in C, C++, and app development. Experienced in AIML, Robotics and familiarity in SLAM technology, through real-world projects, hackathons and internship programs. Strong problem-solver and team player, passionate about building scalable, impactful software solutions. # Education - B.Tech - Computer Science and Business Systems - GITAM University, Bengaluru - Expected Graduation: 2026 - Current CGPA: 9.95 # Technical Skills - Programming: C, C++, Dart, Python - Tools &#x26; Technologies: Android Studio, Flutter, RoboPlus - Emerging Tech: AIML, LiDAR, Voice Recognition, SLAM - Concepts: Data Structures &#x26; Algorithms, OOPs, DBMS. # Projects - Machine Learning: Credit Card Fraud Detection \u2013 Implemented Isolation Forest Algorithm for fraud detection. - App Development \u2013 Basic Chatting Application using [Xml + Java]. - Web Application \u2013 Medical Appointment booking with Multilingual integration. - Autonomous Vehicle for Differently-Abled (Ongoing) - Used: AI, LiDAR, IoT, Python, Voice Recognition - Designed a mobility solution for people without limbs using sensor-based automation and paddle-less navigation. - Drug Inventory &#x26; Supply Chain Management System using Blockchain - Used: Blockchain, IoT, RFID - Created a decentralized drug-tracking system to eliminate counterfeit medicine distribution. # Experience &#x26; Certifications - Internship: - Intern \u2013 Robotics and AI - Sirena Technologies: 5\u1d57\u02b0 May 2025 \u2013 30\u1d57\u02b0 June 2025 - Selected for a hands-on internship focused on Robotics and Artificial Intelligence. - Hands on Experience with Embedded Systems, Sensors, Robotics. - Certifications: - Data Sciences &#x26; Analytics \u2013 HP Life - Agile Project management \u2013 HP Life - Microeconomics Principles by ILLIONOIS - Introduction to R Programming by IBM - English for Career Development by Penn (University of Pennsylvania) - Data Structures by UC San Diego # Awards &#x26; Achievements - 1st Place \u2013 SIH Internal Hackathon (Software Category), Drug Inventory and supply chain management system - Innovation Competition (Autonomous Vehicle for Differently-Abled Project) \u2013 Till IGC level at NITK Surathkal - Namma Yatri Mobility Challenge (Unstop) \u2013 2023 - AWS x POI Hackathon \u2013 Till Finale - 2025 - NCC Achievements: \u2018A\u2019, \u2018B\u2019 &#x26; \u2018C\u2019 Certificates with \u2018A\u2019 Grade \u2013 One of the Top NCC Rank Holders (JUO) # Hobbies Reading Crime and Investigative novels, Workout, Music, Dance (Free style &#x26; Semi classical), Painting # Skills Communication &#x26; Collaboration, Teamwork, Adaptability, Problem-Solving. # Languages Known English (Fluent), Hindi (Conversational), Telugu (Native), Kannada (Fluent)",
+      "metadata": {
+        "filename": "Pavithra.pdf",
+        "page_count": 1,
+        "extraction_method": "llamaparse",
+        "confidence_score": 0.95,
+        "sections_detected": [
+          "experience",
+          "education",
+          "skills",
+          "projects",
+          "summary",
+          "certifications"
+        ]
+      },
+      "semantic_score": 42.57,
+      "keyword_score": 10.0,
+      "keyword_matches": {
+        "Python": {
+          "count": 2,
+          "score": 3.5
+        }
+      },
+      "keywords_found": 1,
+      "semantic_rank": 3,
+      "keyword_rank": 6,
+      "rrf_score": 0.031025,
+      "phase1_rank": 4,
+      "raw_scores": [
+        0,
+        3,
+        0,
+        2,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      "score_breakdown": {
+        "Experience with LangGraph": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with LangGraph mentioned"
+        },
+        "Python Programming Skills": {
+          "score": 3,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Python mentioned as a programming skill"
+        },
+        "Experience with Small Language Models (SLMs)": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with Small Language Models mentioned"
+        },
+        "Backend Engineering Skills": {
+          "score": 2,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Backend engineering skills mentioned but no strong evidence"
+        },
+        "Experience with Containerization (Docker)": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with containerization mentioned"
+        },
+        "Real-Time System Design Experience": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with real-time system design mentioned"
+        },
+        "Education in Computer Science or Data Science": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Bachelor's degree in Computer Science mentioned"
+        },
+        "Experience with LangChain": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with LangChain mentioned"
+        },
+        "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No knowledge of quantized models mentioned"
+        },
+        "DevOps Experience": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No DevOps experience mentioned"
+        },
+        "Experience with Autonomous Agents": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with autonomous agents mentioned"
+        },
+        "Experience with Multi-Agent Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with multi-agent architectures mentioned"
+        },
+        "Experience with Stateful Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with stateful architectures mentioned"
+        },
+        "Experience with Agile Development Methodologies": {
+          "score": 4,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Agile development methodologies certification mentioned"
+        },
+        "Certifications in AI or Machine Learning": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No certifications in AI or machine learning mentioned"
+        }
+      },
+      "final_score": 23,
+      "strengths": [
+        "Strong problem-solving skills",
+        "Passionate about building scalable software solutions",
+        "Experience with AI and robotics",
+        "Good communication and collaboration skills",
+        "Adaptability and teamwork skills"
+      ],
+      "weaknesses": [
+        "Limited experience with LangGraph and Small Language Models",
+        "No experience with containerization and DevOps",
+        "No experience with autonomous agents and multi-agent architectures",
+        "Limited experience with backend engineering",
+        "No certifications in AI or machine learning"
+      ],
+      "red_flags": [
+        "No experience with critical technologies like LangGraph and Small Language Models",
+        "Limited experience with backend engineering and DevOps",
+        "No certifications in AI or machine learning"
+      ],
+      "overall_fit": "poor",
+      "summary": "Pavithra has a strong foundation in computer science and programming skills, but lacks experience with critical technologies like LangGraph and Small Language Models. She has a passion for building scalable software solutions and has experience with AI and robotics, but needs to develop her skills in backend engineering, DevOps, and autonomous agents. With additional training and experience, Pavithra could be a good fit for a Generative AI Engineer role.",
+      "eval_rank": 5,
+      "final_rank": 5,
+      "recommendation": "do_not_recommend",
+      "ranking_reason": "Strong problem-solving skills | Gap: Limited experience with LangGraph and Small Langua"
+    },
+    {
+      "name": "Sriman",
+      "filename": "Sriman.pdf",
+      "content": "K. Sriman Seshadri Iyengar Kodakandla LinkedIn: LinkedIn Profile Phone: +91 8712279079 Email: srimaniyengar6666@gmail.com Location: Bengaluru, Karnataka, India # Objective Passionate about Machine Learning and Deep Learning, eager to explore and develop skills in this domain. Highly motivated to apply data-driven solutions, contribute to innovative projects, and solve real-world problems. # Education | GITAM University | Bengaluru, Computer Science and Engineering | 2022 \u2013 2026 | CGPA: 9.71 / 10 | | ---------------------- | ------------------------------------------- | ----------- | ---------------- | | RGUKT University | Pre-University Course (PUC) | 2020 \u2013 2022 | Grade: 9.31 / 10 | | Montessori High School | SSC | 2019 \u2013 2020 | GPA: 10 / 10 | # Technical Skills - Programming Languages: Python, C - Web Technologies: HTML, CSS, JavaScript - Database Systems: SQL - Version Control: GitHub - Specialized Areas: Machine Learning, Data Science, Deep Learning # Internship Machine Learning &#x26; Deep Learning Intern, MSRcosmos LLC (May 2025 \u2013 June 2025) - Worked on extracting floorplans from blob-linked PDF files using LLM-based segregation; integrated Google AI Studio models via API. - Used YOLOv9 to classify and detect architectural elements like rooms, doors, windows, and furniture from AutoCAD images. - Applied color coding, centroid extraction, and dimension labeling for detailed visualization and precise material estimation. # Projects Stock Forecasting and News Summarization App using ML - Developed an interactive Gradio-based dashboard to analyze Nifty 50 stocks using real-time data, technical indicators, and stock-specific news sentiment. - Integrated Google Gemini API to summarize financial news from RSS feeds and display AI-powered insights. - Trained a Random Forest model to predict 3-month stock returns using PE ratio, ROE, volatility, and visualized top stock picks with sector-based pie charts. # Co-Curricular Activities - Participated in CODEATHON held on 27th March 2024 at GITAM. - Active member of the Chess Club and organized multiple tournaments. - Represented GITAM University in South Zone Chess Championship. # Certificates - Introduction to Data Science by IBM - Introduction to Data Science in Python by University of Michigan - ACM Winter Workshop Participant # Workshops Participated in ACM workshop conducted by SRM College of Andhra Pradesh on Generative AI and Machine Learning. # Hobbies Playing Chess, investing in the stock market, debentures, and solving puzzles. # Declaration I hereby declare that the information provided above is true and correct to the best of my knowledge and belief. Signature: K. Sriman Date: 11-07-2025",
+      "metadata": {
+        "filename": "Sriman.pdf",
+        "page_count": 2,
+        "extraction_method": "llamaparse",
+        "confidence_score": 0.95,
+        "sections_detected": [
+          "education",
+          "skills",
+          "projects"
+        ]
+      },
+      "semantic_score": 27.36,
+      "keyword_score": 10.0,
+      "keyword_matches": {
+        "Python": {
+          "count": 2,
+          "score": 3.5
+        }
+      },
+      "keywords_found": 1,
+      "semantic_rank": 5,
+      "keyword_rank": 7,
+      "rrf_score": 0.03031,
+      "phase1_rank": 7,
+      "raw_scores": [
+        0,
+        4,
+        0,
+        2,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score_breakdown": {
+        "Experience with LangGraph": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with LangGraph mentioned"
+        },
+        "Python Programming Skills": {
+          "score": 4,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Python programming skills mentioned in technical skills"
+        },
+        "Experience with Small Language Models (SLMs)": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with Small Language Models (SLMs) mentioned"
+        },
+        "Backend Engineering Skills": {
+          "score": 2,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Some backend engineering skills mentioned, such as SQL"
+        },
+        "Experience with Containerization (Docker)": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with containerization using Docker mentioned"
+        },
+        "Real-Time System Design Experience": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with real-time system design mentioned"
+        },
+        "Education in Computer Science or Data Science": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Bachelor's degree in Computer Science mentioned"
+        },
+        "Experience with LangChain": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with LangChain mentioned"
+        },
+        "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No knowledge of quantized models mentioned"
+        },
+        "DevOps Experience": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No DevOps experience mentioned"
+        },
+        "Experience with Autonomous Agents": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with autonomous agents mentioned"
+        },
+        "Experience with Multi-Agent Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with multi-agent architectures mentioned"
+        },
+        "Experience with Stateful Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with stateful architectures mentioned"
+        },
+        "Experience with Agile Development Methodologies": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with agile development methodologies mentioned"
+        },
+        "Certifications in AI or Machine Learning": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No certifications in AI or machine learning mentioned, apart from introductory courses"
+        }
+      },
+      "final_score": 23,
+      "strengths": [
+        "Strong academic background in Computer Science",
+        "Experience with machine learning and deep learning",
+        "Proficient in Python programming"
+      ],
+      "weaknesses": [
+        "Lack of experience with LangGraph and SLMs",
+        "No experience with containerization using Docker",
+        "Limited backend engineering skills"
+      ],
+      "red_flags": [
+        "No experience with critical technologies for the role",
+        "Limited evidence of hands-on experience with relevant technologies"
+      ],
+      "overall_fit": "poor",
+      "summary": "Sriman has a strong academic background in Computer Science and some experience with machine learning and deep learning. However, he lacks experience with critical technologies such as LangGraph, SLMs, and containerization using Docker, which are essential for the role of a Generative AI Engineer.",
+      "eval_rank": 6,
+      "final_rank": 6,
+      "recommendation": "do_not_recommend",
+      "ranking_reason": "Strong academic background in Computer Science | Gap: Lack of experience with LangGraph and SLMs"
+    },
+    {
+      "name": "Theekshani",
+      "filename": "Theekshani.pdf",
+      "content": "Theekshani theekshanireddy119@gmail.com (+91) 7989456277 # EDUCATION - Bachelor of Technology in Computer Science Engineering pursuing 3rd year Gandhi Institute of Technology And Management, Bengaluru CGPA: 9.5 (2022-2026) - Intermediate JCNRM Junior College, Tadipatri 97.5% 2022 # WORK EXPERIENCE # Software Engineering Projects (2023 - Present) - Worked as a project intern in Intel Unnati internship for project Image Sharpening using Knowledge distillation. - Created a Java-based task management desktop application. - Completed project internship in Infosys Springboard as a Java developer. # ACADEMIC PROJECTS - AI Model \u2013 Image Sharpening model for video conferencing A Python-based deep learning solution to enhance image clarity in real-time video conferencing. Developed an ultra-lightweight CNN by distilling knowledge from the Real-ESRGAN model, enabling efficient sharpening on low-bandwidth connections. Achieved [>30 FPS] performance and [>90%] SSIM. Technologies: Python, PyTorch/TensorFlow, OpenCV - L&#x26;D Management System \u2013 Full-Stack Learning Management Web Application A web-based application built to streamline employee training management for organizations. Designed with role-based access for account managers, LCD admins, and employees to request, assign, and track training programs. Implemented course progress tracking, feedback collection, and course approval workflows. Technologies used: React.js (frontend), Spring Boot (backend), and RDBMS. Demonstrated full-stack development, REST API integration. - TaskManager - Java-based Task Management Application A Java-based desktop application designed for task management and productivity. Analyzed user requirements and developed to create, update, and track tasks, set deadlines, and categorize their activities. The app offers reminders and analytics for completed tasks. Technologies used: Java. Highlighted software design and testing methodologies. # POSITION OF RESPONSIBILITY - Team Lead, Academic Projects Led a small team to complete projects, managed task delegation, and ensured deadlines were consistently met. Fostered collaboration and technical problem-solving to deliver high-quality results. - Coordinator, Group Assignments Coordinated group work by assigning roles and keeping track of progress. # SKILLS - Technical skills in programming: C, Java, Python and data structures (Basic) - Web Development: HTML, CSS, JavaScript - Databases: SQL, MongoDB (In Progress) - Other Technologies: Ongoing pursuit of Machine Learning # Soft Skills - Collaborative - Engagement - Prioritizing - Communication - Adaptability # CERTIFICATIONS - Android Development: Certificate from AICTE. - Certificate of Career essentials in generative AI by Microsoft and LinkedIn - Coursera Certificates: Excel, Organizational Behavior, Professional Email Writing, Creative Presentations - Infosys springboard: Java foundational certification including unit testing with JUnit # ACHIEVEMENTS - Effective Communication: Received multiple appreciations for delivering engaging presentations and seminars, highlighting strong communication skills. - Academic Excellence: Consistently achieved top grades, earning multiple medals and awards for outstanding performance.",
+      "metadata": {
+        "filename": "Theekshani.pdf",
+        "page_count": 2,
+        "extraction_method": "llamaparse",
+        "confidence_score": 0.95,
+        "sections_detected": [
+          "experience",
+          "education",
+          "skills",
+          "projects",
+          "certifications"
+        ]
+      },
+      "semantic_score": 35.66,
+      "keyword_score": 11.43,
+      "keyword_matches": {
+        "Python": {
+          "count": 3,
+          "score": 4.0
+        }
+      },
+      "keywords_found": 1,
+      "semantic_rank": 4,
+      "keyword_rank": 4,
+      "rrf_score": 0.03125,
+      "phase1_rank": 3,
+      "raw_scores": [
+        0,
+        3,
+        0,
+        2,
+        0,
+        1,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score_breakdown": {
+        "Experience with LangGraph": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with LangGraph mentioned"
+        },
+        "Python Programming Skills": {
+          "score": 3,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Python skills demonstrated through projects"
+        },
+        "Experience with Small Language Models (SLMs)": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with Small Language Models mentioned"
+        },
+        "Backend Engineering Skills": {
+          "score": 2,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Some backend engineering skills demonstrated"
+        },
+        "Experience with Containerization (Docker)": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with containerization mentioned"
+        },
+        "Real-Time System Design Experience": {
+          "score": 1,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Some real-time system design experience demonstrated"
+        },
+        "Education in Computer Science or Data Science": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Relevant education in Computer Science"
+        },
+        "Experience with LangChain": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with LangChain mentioned"
+        },
+        "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No knowledge of quantized models mentioned"
+        },
+        "DevOps Experience": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No DevOps experience mentioned"
+        },
+        "Experience with Autonomous Agents": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with autonomous agents mentioned"
+        },
+        "Experience with Multi-Agent Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with multi-agent architectures mentioned"
+        },
+        "Experience with Stateful Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with stateful architectures mentioned"
+        },
+        "Experience with Agile Development Methodologies": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with agile development methodologies mentioned"
+        },
+        "Certifications in AI or Machine Learning": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "Some relevant certifications mentioned"
+        }
+      },
+      "final_score": 22,
+      "strengths": [
+        "Strong academic performance",
+        "Relevant education in Computer Science",
+        "Some experience with backend engineering",
+        "Strong communication skills",
+        "Some experience with machine learning"
+      ],
+      "weaknesses": [
+        "Lack of experience with critical technologies like LangGraph and Small Language Models",
+        "Limited experience with containerization and DevOps",
+        "No experience with autonomous agents or multi-agent architectures"
+      ],
+      "red_flags": [
+        "No direct experience with Generative AI",
+        "Limited experience with production-ready AI services",
+        "No experience with stateful architectures"
+      ],
+      "overall_fit": "poor",
+      "summary": "Theekshani has a strong academic background in Computer Science and some experience with backend engineering and machine learning. However, they lack direct experience with critical technologies like LangGraph and Small Language Models, and have limited experience with containerization, DevOps, and production-ready AI services. They may require significant training and development to be a strong fit for a Generative AI Engineer role.",
+      "eval_rank": 7,
+      "final_rank": 7,
+      "recommendation": "do_not_recommend",
+      "ranking_reason": "Strong academic performance | Gap: Lack of experience with critical technologies like"
+    },
+    {
+      "name": "Sreekar",
+      "filename": "Sreekar.pdf",
+      "content": "Sreekar Venkata Kanduri Bengaluru, India 560066 \u2022 +91-9606566882 \u2022 k.sreekarvenkata@gmail.com \u2022 https://www.linkedin.com/ksreekarvenkata/ \u2022 https://github.com/ksreekarvenkata # PROFILE Passionate Computer Science student with a strong foundation in web development and growing interest in cybersecurity. Seeking opportunities to apply and expand my skills in threat analysis, vulnerability assessment, and secure system design to protect digital assets and enhance data integrity. # EDUCATION | Gitam University | 7.1/10 | Sep, 2022 - Apr, 2026 | Bachelor of Technology in Computer Science Engineering | Bengaluru, India | | ---------------------- | ------ | --------------------- | ------------------------------------------------------ | ---------------- | | New Horizon PU College | 8.8/10 | Jun, 2020 - Aug, 2022 | Stream - MPC(Maths, Physics, Chemistry) | Bengaluru, India | | New Horizon Gurukul | 6.9/10 | Apr, 2019 - Apr, 2020 | CBSE - Central Board of Secondary Education | Bengaluru, India | # SKILLS Programming Languages and Libraries: HTML, CSS, Java Script, ReactJs, Node.Js, MongoDB Software Tools: OnlineGDB, Pycharm, Visual Studio Code # PROJECTS # 3D Train Engine Design - AutoDesk Fusion 360: - Executed a Mechanical Project using AutoDesk Fusion 360 in the domain of Engineering Visualization and Product Realization (EVPR). - Designed a 3D Train Engine, employing advanced features and tools within the Fusion 360 software. - Produced comprehensive views, including Top View, Front View, and Side View, showcasing a detailed representation of the train model. # Web Development Project using HTML: - Developed a website as part of my Computer Engineering Workshop Course project using HTML. - Designed the website that consists of my university logo. - Incorporated diverse question types, including text answers and checkboxes, for interactive user engagement. - Applied a visually appealing color scheme to enhance the overall aesthetic. - Included a strategically placed button at the bottom of the page, linking directly to the official website of my university. # Food Idea \u2013 Restaurant Management System: - Designed and developed a full-stack restaurant management system with a responsive user interface. - Implemented dynamic dish cost calculator using live ingredient pricing and quantity mapping. - Created multi-step order flow (Menu \u2192 Details \u2192 Payment \u2192 Receipt) for efficient billing. - Integrated CapEx and OpEx modules to manage financial operations and track expenditures. - Built ingredient and item purchase management with real-time data sync between frontend and backend. # EXTRACURRICULAR ACTIVITIES Active member of GITAM Bangalore Football Team (Left Wing); participated in the Tri-Campus Football Tournament organized by GITAM University from September 2\u20138, 2025.",
+      "metadata": {
+        "filename": "Sreekar.pdf",
+        "page_count": 1,
+        "extraction_method": "llamaparse",
+        "confidence_score": 0.95,
+        "sections_detected": [
+          "education",
+          "skills",
+          "projects"
+        ]
+      },
+      "semantic_score": 25.65,
+      "keyword_score": 0.0,
+      "keyword_matches": {},
+      "keywords_found": 0,
+      "semantic_rank": 7,
+      "keyword_rank": 8,
+      "rrf_score": 0.029631,
+      "phase1_rank": 8,
+      "raw_scores": [
+        0,
+        1,
+        0,
+        4,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "score_breakdown": {
+        "Experience with LangGraph": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with LangGraph mentioned"
+        },
+        "Python Programming Skills": {
+          "score": 1,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "Basic programming skills mentioned, but no strong proficiency in Python"
+        },
+        "Experience with Small Language Models (SLMs)": {
+          "score": 0,
+          "weight": 5,
+          "category": "critical",
+          "evidence": "No experience with Small Language Models (SLMs) mentioned"
+        },
+        "Backend Engineering Skills": {
+          "score": 4,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Strong hands-on experience with backend engineering skills like Node.Js and MongoDB"
+        },
+        "Experience with Containerization (Docker)": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with containerization using Docker mentioned"
+        },
+        "Real-Time System Design Experience": {
+          "score": 0,
+          "weight": 3,
+          "category": "important",
+          "evidence": "No experience with real-time system design mentioned"
+        },
+        "Education in Computer Science or Data Science": {
+          "score": 5,
+          "weight": 3,
+          "category": "important",
+          "evidence": "Bachelor's degree in Computer Science mentioned"
+        },
+        "Experience with LangChain": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with LangChain mentioned"
+        },
+        "Knowledge of Quantized Models (e.g., Mistral 7B, Phi-3)": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No knowledge of quantized models mentioned"
+        },
+        "DevOps Experience": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with DevOps practices mentioned"
+        },
+        "Experience with Autonomous Agents": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with autonomous agents mentioned"
+        },
+        "Experience with Multi-Agent Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with multi-agent architectures mentioned"
+        },
+        "Experience with Stateful Architectures": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with stateful architectures mentioned"
+        },
+        "Experience with Agile Development Methodologies": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No experience with agile development methodologies mentioned"
+        },
+        "Certifications in AI or Machine Learning": {
+          "score": 0,
+          "weight": 1,
+          "category": "preferred",
+          "evidence": "No certifications in AI or machine learning mentioned"
+        }
+      },
+      "final_score": 18,
+      "strengths": [
+        "Strong hands-on experience with backend engineering skills",
+        "Bachelor's degree in Computer Science"
+      ],
+      "weaknesses": [
+        "No experience with LangGraph, SLMs, or containerization",
+        "Limited programming skills in Python",
+        "No experience with real-time system design or DevOps practices"
+      ],
+      "red_flags": [
+        "No relevant experience for a Generative AI Engineer role",
+        "Limited technical skills mentioned in the resume",
+        "No certifications or metrics to prove production experience"
+      ],
+      "overall_fit": "poor",
+      "summary": "Sreekar has a strong foundation in computer science and some hands-on experience with backend engineering, but lacks the necessary experience and skills for a Generative AI Engineer role, particularly with LangGraph, SLMs, and containerization.",
+      "eval_rank": 8,
+      "final_rank": 8,
+      "recommendation": "do_not_recommend",
+      "ranking_reason": "Strong hands-on experience with backend engineering skills | Gap: No experience with LangGraph, SLMs, or containeriz"
+    }
+  ],
+  "top_candidate_summary": "Sampath scored 87/100",
+  "hiring_recommendation": "One standout candidate. Interview top 2-3 to compare.",
+  "node_timings": {
+    "hybrid_filtering": 9829.381,
+    "rank_fusion": 0.87,
+    "question_generation": 3076.576,
+    "resume_ranking": 38365.359,
+    "report_generation": 0.424
+  }
+}

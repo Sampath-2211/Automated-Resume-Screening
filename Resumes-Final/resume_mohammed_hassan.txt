@@ -1,0 +1,47 @@
+
+============================================================
+FILE: resume_mohammed_hassan.txt
+ARCHETYPE: Developer (Python/Lambda heavy, weak on infra)
+============================================================
+
+Mohammed Hassan
+Bengaluru, India | +91-8901234567 | mohammed.hassan@email.com
+
+SUMMARY
+Backend Software Engineer with 2 years of experience building serverless applications on AWS.
+Strong Python and SQL skills. Experienced with Lambda, S3, and DynamoDB. Limited infrastructure
+and networking background — focused primarily on application development.
+
+EXPERIENCE
+
+Backend Engineer — CloudApps India, Bengaluru
+Jul 2022 – Present (2 years)
+
+- Developed and deployed 12 AWS Lambda functions (Python) for data processing pipelines;
+  handles 500K events/day using SQS triggers.
+- Manages S3 bucket structure for data lake — bucket policies, event notifications, lifecycle rules.
+- Uses DynamoDB for session management and caching layer.
+- Writes Python (boto3) scripts for AWS resource management and data migration tasks.
+- Uses API Gateway to expose Lambda functions as REST APIs.
+- Basic EC2 usage: SSH into dev servers for debugging, no provisioning responsibility.
+- IAM: creates service roles for Lambda functions — has not managed user IAM or org-level policies.
+- CloudWatch: sets up Lambda log groups and basic error alarms.
+- No Linux server administration experience — uses managed services only.
+- No networking experience — VPC configuration done by separate infrastructure team.
+- No CI/CD pipeline management — developers push to main branch, ops team handles deployment.
+
+EDUCATION
+B.Tech in Computer Science — PES University, Bengaluru, 2022 (CGPA: 8.7/10)
+
+SKILLS
+Languages: Python (advanced), SQL, JavaScript (basic)
+AWS (application-level): Lambda, S3, DynamoDB, SQS, API Gateway, CloudWatch (logs)
+AWS (unfamiliar): EC2 management, VPC design, IAM admin, RDS admin, CloudFormation
+Databases: MySQL, DynamoDB, PostgreSQL
+Frameworks: FastAPI, Flask
+Tools: Git, Docker (basic — can run containers, cannot build infrastructure)
+Networking: Basic understanding only — cannot configure firewalls, VPN, or load balancers
+
+CERTIFICATIONS
+- AWS Certified Developer – Associate (2023)
+- Python Professional Certificate — PCPP1

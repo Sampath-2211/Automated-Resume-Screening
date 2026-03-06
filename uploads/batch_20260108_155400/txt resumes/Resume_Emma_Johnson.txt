@@ -1,0 +1,50 @@
+EMMA JOHNSON
+ML Platform Engineer
+emma.j@email.com | New York, NY
+
+SUMMARY
+6 years building ML infrastructure and platforms. Expert in MLOps, model deployment, and scalable inference systems. Bridge between ML research and production engineering.
+
+EXPERIENCE
+
+Senior ML Platform Engineer | FinanceAI Corp | 2021 - Present
+- Built end-to-end ML platform serving 50+ models in production
+- Implemented model serving infrastructure using Kubernetes, achieving 99.99% uptime
+- Designed A/B testing framework with statistical significance calculations for model rollouts
+- Created feature store using Feast, reducing feature engineering time by 70%
+- Optimized LLM inference using vLLM and TensorRT, reducing costs by 40%
+- Built monitoring system for model drift detection and automated retraining triggers
+- Led migration from on-prem to AWS, utilizing SageMaker for training and inference
+
+ML Engineer | DataPlatform Inc | 2019 - 2021
+- Developed ML pipelines using Kubeflow Pipelines and Airflow
+- Implemented experiment tracking using MLflow, managing 1000+ experiments
+- Built Docker-based model packaging system for consistent deployments
+- Created data validation pipelines for training data quality assurance
+- Worked on bias detection tools using Fairlearn and custom metrics
+
+Software Engineer | TechCorp | 2017 - 2019
+- Built backend services using Python and Go
+- Implemented data pipelines using Apache Beam
+- Managed Kubernetes clusters for microservices
+
+EDUCATION
+M.S. Computer Science, Columbia University, 2017
+B.S. Computer Engineering, Cornell University, 2015
+
+CERTIFICATIONS
+- AWS Machine Learning Specialty
+- Google Cloud Professional ML Engineer
+- Kubernetes Administrator (CKA)
+
+SKILLS
+Languages: Python, Go, SQL
+MLOps: MLflow, Kubeflow, Airflow, DVC
+Inference: vLLM, TensorRT, Triton, ONNX
+Cloud: AWS (SageMaker, EKS), GCP (Vertex AI)
+Infrastructure: Kubernetes, Docker, Terraform
+
+LIMITATIONS
+- Have not personally trained large LLMs from scratch
+- Fine-tuning experience limited to smaller models (up to 7B)
+- No published research papers

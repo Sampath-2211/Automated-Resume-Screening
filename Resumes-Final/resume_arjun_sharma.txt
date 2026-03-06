@@ -1,0 +1,63 @@
+
+============================================================
+FILE: resume_arjun_sharma.txt
+ARCHETYPE: Strong Match (Production AWS Engineer)
+============================================================
+
+Arjun Sharma
+Bengaluru, India | +91-9876543210 | arjun.sharma@email.com
+linkedin.com/in/arjunsharma | github.com/arjunsharma
+
+SUMMARY
+AWS Systems Engineer with 3.5 years of production experience managing scalable cloud infrastructure
+for a fintech company. Deep expertise in EC2, VPC, IAM, and CloudWatch. Strong Linux background
+and a passion for automation through Bash and Python scripting.
+
+EXPERIENCE
+
+Senior Systems Engineer — PaySecure Technologies, Bengaluru
+Jan 2022 – Present (2.5 years)
+
+- Manage 200+ EC2 instances across 3 AWS regions, including auto-scaling groups and spot fleet
+  configurations for cost optimization (saved ~40% on compute costs).
+- Designed multi-VPC architecture with transit gateway, private subnets, NACLs, and security groups
+  for PCI-DSS compliance across production and staging environments.
+- Implemented IAM roles, policies, and permission boundaries enforcing least-privilege access for
+  50+ developers; eliminated overprivileged root usage entirely.
+- Built CloudWatch dashboards and alarms for 99.9% uptime SLA monitoring; configured SNS alerting
+  for critical incident response.
+- Migrated on-premise MySQL workloads to RDS Multi-AZ with automated backups and cross-region
+  read replicas for disaster recovery.
+- Automated server provisioning using CloudFormation templates; reduced new environment setup
+  from 4 hours to 12 minutes.
+- Wrote Bash and Python scripts for log rotation, S3 lifecycle management, and AMI cleanup
+  (eliminated 60GB of stale snapshots weekly).
+- Managed S3 bucket policies, versioning, and cross-region replication for backup compliance.
+- Administered 30+ Ubuntu and CentOS servers; handled patching, kernel upgrades, and hardening.
+- Configured VPN (AWS Site-to-Site) connecting on-premise data center to AWS VPC.
+- Provided L3 support; led RCA for 3 major production incidents in FY2023.
+
+Cloud Engineer — InfoBridge Solutions, Hyderabad
+Jul 2021 – Dec 2021 (6 months)
+
+- Assisted migration of legacy apps to AWS EC2 and configured application load balancers.
+- Wrote Python scripts for automated S3 uploads and CloudWatch log parsing.
+- Set up basic IAM users and groups for a 15-person dev team.
+
+EDUCATION
+B.Tech in Computer Science — JNTU Hyderabad, 2021 (CGPA: 7.8/10)
+
+SKILLS
+Cloud: AWS (EC2, S3, RDS, Lambda, VPC, IAM, CloudWatch, CloudFormation, Route 53, SNS)
+OS: Linux (Ubuntu, CentOS, RHEL), Windows Server 2019
+Networking: TCP/IP, DNS, VPN, Load Balancers, Firewalls, NACLs
+Scripting: Bash, Python, PowerShell (basic)
+IaC: CloudFormation, Terraform (learning)
+Security: IAM, Security Groups, NACLs, PCI-DSS compliance
+Tools: Jenkins, Git, Nagios, Grafana
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2022)
+- AWS Certified SysOps Administrator – Associate (2023)
+- Linux Foundation Certified System Administrator (LFCS)
+

@@ -1,0 +1,18 @@
+Job Description: Generative AI Engineer (Agentic Systems)
+Role Summary: We are looking for a forward-thinking engineer to build the next generation of autonomous software systems. The ideal candidate will move beyond simple "chatbot" wrappers to design stateful, multi-agent architectures where AI models can plan, execute, and correct their own actions. You will be responsible for deploying Small Language Models (SLMs) locally and creating robust backend pipelines for real-time interaction.
+
+Key Responsibilities:
+Build Agentic Workflows: Design and implement autonomous agents capable of function calling and multi-step reasoning to answer complex queries.
++1
+Orchestration Architecture: Utilize advanced orchestration frameworks like LangChain and LangGraph to manage cyclic graphs and state between agent interactions.
++1
+Local Model Deployment: Optimize and deploy open-source Small Language Models (e.g., Mistral, Phi, or Llama) for cost-effective, local inference tasks.
+Real-Time System Design: Architect scalable backend systems that support low-latency communication using WebSockets for simultaneous client interactions.
++1
+Containerization & DevOps: Ensure all AI services are production-ready and portable using Docker.
++1
+Required Technical Skills:
+Primary Stack: Python, LangGraph (Critical), LangChain.
+AI/ML: Experience with Mistral 7B, Phi-3, or similar quantized models.
+Backend Engineering: WebSockets, API development, and SQL optimization.
+Education: Bachelor’s degree in Computer Science. Preference given to candidates simultaneously pursuing a degree or certification in Data Science.

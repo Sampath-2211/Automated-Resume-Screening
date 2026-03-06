@@ -1,0 +1,14 @@
+David Miller
+Senior Java Developer
+
+Summary:
+15 years of experience building robust banking applications.
+
+Skills:
+Java, Spring Boot, Hibernate, Oracle SQL, JSP, Servlets, SOAP APIs.
+
+Experience:
+Lead Architect | FinBank
+- Migrated legacy monolith to Microservices using Spring Boot.
+- Optimized complex SQL queries for Oracle DB.
+- Managed a team of 10 Java developers.

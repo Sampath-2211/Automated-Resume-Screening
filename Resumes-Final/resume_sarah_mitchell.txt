@@ -1,0 +1,52 @@
+
+============================================================
+FILE: resume_sarah_mitchell.txt
+ARCHETYPE: Cert-Heavy (AWS certified but minimal real experience)
+============================================================
+
+Sarah Mitchell
+Bengaluru, India | +91-8123456709 | sarah.mitchell@email.com
+
+PROFESSIONAL PROFILE
+Motivated cloud enthusiast with AWS certifications and strong theoretical foundation. Completed
+intensive AWS training programs and hands-on labs. Looking to transition into a full-time cloud
+engineering role after a year in IT support.
+
+EXPERIENCE
+
+IT Support Engineer — TechAssist India, Bengaluru
+Aug 2023 – Present (1 year)
+
+- Provide helpdesk support for 200-user organization — hardware, software, VPN troubleshooting.
+- Manage Active Directory users, groups, and GPOs.
+- Basic Linux command line usage (file management, service restarts) on Ubuntu servers.
+- Assisted senior engineer with deploying 3 EC2 instances for internal dev environment (guided).
+- Uploaded files to S3 bucket for document management (following SOPs).
+
+AWS Training Projects (Self-Study Labs — 2023-2024):
+- Completed AWS Skill Builder: "Architecting on AWS" course (40 hours).
+- Built lab VPC with public/private subnets, IGW, NAT gateway in personal AWS account.
+- Launched EC2 instances with different instance types; practiced SSH key management.
+- Created RDS MySQL instance with automated backups in sandbox environment.
+- Set up IAM users, groups, and roles following lab instructions.
+- Configured basic CloudWatch alarms for EC2 CPU utilization.
+- Deployed Lambda function (hello-world) triggered by S3 upload event.
+- Completed A Cloud Guru: "AWS SysOps Administrator" learning path.
+- Practice exam score: 82% (passed actual SysOps exam on second attempt).
+
+EDUCATION
+B.Com in Computer Applications — Bangalore University, 2023 (68%)
+
+TECHNICAL SKILLS
+Cloud: AWS (EC2, S3, RDS, Lambda, VPC, IAM, CloudWatch — lab/sandbox experience only)
+OS: Windows 10/11, Windows Server (Active Directory), Ubuntu (basic)
+Networking: Basic TCP/IP, DNS understanding; no production network management experience
+Scripting: Python (beginner, completed one Udemy course), Bash (very basic)
+Tools: MS Office, Jira, ServiceNow, Slack
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect – Associate (2023) — Score: 756/1000
+- AWS Certified SysOps Administrator – Associate (2024) — Score: 742/1000
+- AWS Certified Cloud Practitioner (2023)
+- Google IT Support Professional Certificate (Coursera)
+

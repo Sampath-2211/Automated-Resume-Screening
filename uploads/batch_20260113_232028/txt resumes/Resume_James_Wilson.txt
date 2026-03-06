@@ -1,0 +1,55 @@
+JAMES WILSON
+Recent Graduate - Aspiring ML Engineer
+james.wilson@email.com | Portland, OR
+
+OBJECTIVE
+Entry-level position in machine learning. Passionate about AI and eager to learn from experienced professionals.
+
+EDUCATION
+B.S. Computer Science, Portland State University, 2023
+GPA: 3.5/4.0
+Relevant Coursework: Machine Learning, Data Structures, Linear Algebra, Statistics
+
+PROJECTS
+
+Capstone Project: Chatbot using GPT API (2023)
+- Built a simple Q&A chatbot using OpenAI API
+- Created web interface using Flask
+- Deployed on Heroku free tier
+
+Course Project: Image Classifier (2022)
+- Trained CNN on CIFAR-10 using PyTorch tutorials
+- Achieved 80% accuracy following online guide
+- Learned basics of neural networks
+
+Personal Project: Sentiment Analysis (2022)
+- Used pre-trained BERT model from Hugging Face
+- Classified movie reviews as positive/negative
+- Followed tutorial from YouTube
+
+Hackathon: AI Writing Assistant (2023)
+- Built prototype using LangChain in 24 hours
+- Integrated with GPT-3.5 API
+- Won "Most Creative" prize
+
+INTERNSHIP
+
+Software Engineering Intern | LocalTech Co | Summer 2022
+- Assisted with Python script development
+- Learned Git version control
+- Participated in code reviews
+- Shadowed senior engineers
+
+SKILLS
+Languages: Python (intermediate), Java (basic), SQL (basic)
+Libraries: PyTorch (basic), Hugging Face (basic), pandas, numpy
+Tools: Git, VS Code, Jupyter Notebooks
+Cloud: Basic AWS (completed free tier tutorials)
+
+INTERESTS
+- Reading ML research papers (trying to understand them)
+- Following AI news and developments
+- Contributing to open source (small documentation fixes)
+
+NOTES
+No professional ML experience. All projects are tutorial-based or hackathon prototypes. Enthusiastic but needs significant mentoring and training.

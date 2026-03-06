@@ -1,0 +1,60 @@
+JAMES PARK
+Senior Frontend Engineer
+james.park@outlook.com | (206) 555-7890 | github.com/jpark-dev
+
+SUMMARY
+Senior frontend engineer with 8 years of experience building scalable web applications. Expert in React ecosystem with strong focus on performance optimization and user experience. Some backend experience with Python and Node.js.
+
+EXPERIENCE
+
+Senior Frontend Engineer | ShopFlow Commerce | Seattle, WA | 2020 - Present
+- Led frontend architecture for e-commerce platform serving 500k daily users
+- Built React component library used across 12 product teams
+- Implemented micro-frontend architecture reducing bundle size by 45%
+- Optimized Core Web Vitals, improving LCP from 4.2s to 1.8s
+- Mentored team of 6 frontend developers
+- Collaborated with backend team on REST API design
+
+Frontend Engineer | MediaTech Inc. | Seattle, WA | 2017 - 2020
+- Developed video streaming interface using React and Redux
+- Built real-time features using WebSocket connections
+- Created data visualization dashboards using D3.js
+- Wrote Python scripts for build automation and testing
+- Implemented A/B testing framework increasing conversion by 23%
+
+Software Developer | WebAgency | Portland, OR | 2015 - 2017
+- Built responsive websites using JavaScript and jQuery
+- Developed WordPress themes and plugins using PHP
+- Created simple Flask APIs for form submissions
+- Managed MySQL databases for client websites
+
+TECHNICAL SKILLS
+Frontend: React, Redux, TypeScript, Next.js, Vue.js, Webpack, Vite
+Styling: CSS-in-JS, Tailwind, SASS, Styled Components
+Testing: Jest, React Testing Library, Cypress, Playwright
+Backend: Node.js, Express, Python (basic), Flask (basic)
+Databases: MongoDB, PostgreSQL (basic)
+Tools: Git, GitHub Actions, Vercel, Netlify, Figma
+Cloud: AWS (S3, CloudFront), Vercel Edge Functions
+
+PROJECTS
+
+E-commerce Design System
+- Created comprehensive React component library with 80+ components
+- Implemented accessibility standards (WCAG 2.1 AA compliance)
+- Published as internal npm package with full documentation
+
+Performance Monitoring Dashboard
+- Built real-time metrics dashboard using React and D3.js
+- Integrated with backend Python service for data aggregation
+- Reduced page load monitoring latency by 60%
+
+EDUCATION
+
+Bachelor of Science, Computer Science | University of Washington | 2015
+- Focus: Human-Computer Interaction
+- Senior Project: Accessible Web Components Library
+
+CERTIFICATIONS
+- AWS Certified Cloud Practitioner (2022)
+- Google UX Design Certificate (2021)

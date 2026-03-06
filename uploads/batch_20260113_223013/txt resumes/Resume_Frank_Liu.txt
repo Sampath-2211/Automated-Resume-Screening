@@ -1,0 +1,44 @@
+FRANK LIU
+Computer Vision Engineer
+frank.liu@email.com | Los Angeles, CA
+
+SUMMARY
+7 years of deep learning experience focused on computer vision. Expert in image classification, object detection, and image generation models.
+
+EXPERIENCE
+
+Senior CV Engineer | VisionTech AI | 2020 - Present
+- Led development of real-time object detection system using YOLOv8
+- Trained custom image classification models using PyTorch, achieving 98% accuracy
+- Implemented model quantization using TensorRT for edge deployment
+- Built annotation pipeline processing 1M+ images
+- Deployed models to production using Kubernetes and Docker
+- Mentored 3 junior engineers on deep learning best practices
+
+Computer Vision Engineer | ImageCorp | 2017 - 2020
+- Developed image segmentation models using U-Net architecture
+- Implemented data augmentation pipeline for training data expansion
+- Built model serving infrastructure using TensorFlow Serving
+- Created evaluation metrics dashboard for model performance
+
+Research Assistant | UCLA Vision Lab | 2015 - 2017
+- Researched GANs for image synthesis
+- Published paper on style transfer techniques
+- Implemented CNN architectures for various vision tasks
+
+EDUCATION
+M.S. Computer Science, UCLA, 2017 - Focus: Computer Vision
+B.S. Electrical Engineering, USC, 2015
+
+PUBLICATIONS
+- "Efficient Style Transfer for Real-time Applications" - CVPR 2018
+- "Improved Object Detection in Low-light Conditions" - ICCV 2019
+
+SKILLS
+Languages: Python, C++, CUDA
+Frameworks: PyTorch, TensorFlow, OpenCV
+CV Tools: YOLO, Detectron2, MMDetection
+Infrastructure: Docker, Kubernetes, AWS
+
+NOTES
+Strong deep learning fundamentals but limited NLP/LLM experience. Have used CLIP for vision-language tasks but no experience with text-only LLMs, RAG systems, or transformer fine-tuning for language tasks.

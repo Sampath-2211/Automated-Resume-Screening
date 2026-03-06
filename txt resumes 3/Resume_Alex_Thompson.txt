@@ -1,0 +1,60 @@
+ALEX THOMPSON
+Software Developer
+alex.t@gmail.com | (303) 555-2468 | github.com/alexthompson
+
+SUMMARY
+Motivated software developer with 2 years of experience and strong Python skills. Recent bootcamp graduate passionate about data engineering and machine learning. Quick learner eager to grow in a challenging environment.
+
+EXPERIENCE
+
+Junior Software Developer | LocalTech Startup | Denver, CO | 2022 - Present
+- Developed backend features using Python and Flask framework
+- Built REST API endpoints for mobile application with 5k users
+- Wrote SQL queries and maintained PostgreSQL database
+- Created data processing scripts using Pandas for weekly reports
+- Participated in code reviews and learned from senior developers
+- Set up basic Docker containers for local development environment
+
+Software Development Intern | Digital Agency | Boulder, CO | Summer 2022
+- Assisted with Python scripting for data migration project
+- Learned basics of Git version control and agile methodology
+- Wrote unit tests for existing codebase
+- Documented API endpoints using Swagger
+
+PROJECTS
+
+Personal Finance Tracker (github.com/alexthompson/fintrack)
+- Built full-stack web application using Flask and PostgreSQL
+- Implemented user authentication and data visualization
+- Deployed on Heroku with basic CI using GitHub Actions
+
+Movie Recommendation System (Course Project)
+- Created collaborative filtering model using scikit-learn
+- Processed MovieLens dataset using Pandas and NumPy
+- Achieved 85% accuracy on test set
+
+COVID Data Dashboard
+- Built data pipeline fetching daily COVID statistics
+- Created visualizations using Plotly and Dash
+- Automated daily updates using cron jobs
+
+TECHNICAL SKILLS
+Languages: Python, SQL, JavaScript (basic), HTML/CSS
+Frameworks: Flask, Django (learning)
+Data: Pandas, NumPy, Matplotlib, Plotly
+Databases: PostgreSQL, SQLite
+Tools: Git, Docker (basic), Heroku, VS Code
+Learning: FastAPI, Kubernetes, AWS
+
+EDUCATION
+
+Full Stack Development Bootcamp | Tech Academy | 2022
+- 16-week intensive program focused on Python and web development
+
+Bachelor of Arts, Economics | University of Colorado | 2021
+- Minor in Statistics
+- Relevant coursework: Data Analysis, Econometrics, Linear Algebra
+
+CERTIFICATIONS
+- Python for Data Science (Coursera, 2022)
+- SQL Fundamentals (DataCamp, 2022)

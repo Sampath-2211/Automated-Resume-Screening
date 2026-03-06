@@ -1,0 +1,45 @@
+GRACE KIM
+NLP Engineer
+grace.kim@email.com | Chicago, IL
+
+SUMMARY
+5 years of NLP experience with recent focus on LLM applications. Built production RAG systems and fine-tuned multiple foundation models.
+
+EXPERIENCE
+
+NLP Engineer | SearchAI Inc | 2021 - Present
+- Built production RAG system using FAISS and sentence-transformers, serving 5M queries/day
+- Fine-tuned Mistral-7B using LoRA for customer support automation, 35% improvement over base
+- Implemented prompt engineering framework with chain-of-thought templates
+- Built evaluation pipeline using custom metrics and lm-eval-harness
+- Deployed models using Docker on AWS ECS, implemented auto-scaling
+- Created data preprocessing pipeline for 50M document corpus
+
+NLP Engineer | TextAnalytics Corp | 2019 - 2021
+- Developed named entity recognition system using spaCy and BERT
+- Built text classification pipeline using Hugging Face transformers
+- Implemented topic modeling using BERTopic
+- Created sentiment analysis API serving 100K requests/day
+
+Junior Data Scientist | DataCo | 2018 - 2019
+- Built basic NLP models using scikit-learn
+- Developed text preprocessing pipelines
+- Created visualization dashboards for NLP metrics
+
+EDUCATION
+M.S. Data Science, Northwestern University, 2018
+B.S. Statistics, University of Illinois, 2016
+
+SKILLS
+Languages: Python, SQL
+NLP: Hugging Face, spaCy, NLTK, LangChain
+LLM Tools: LoRA/PEFT, vLLM, sentence-transformers
+Vector DBs: FAISS, Pinecone, ChromaDB
+Cloud: AWS (ECS, Lambda), basic GCP
+
+LIMITATIONS
+- No experience with distributed training (DeepSpeed, FSDP)
+- Haven't trained models larger than 7B parameters
+- Limited Kubernetes experience (used managed services)
+- No CUDA programming experience
+- No published research

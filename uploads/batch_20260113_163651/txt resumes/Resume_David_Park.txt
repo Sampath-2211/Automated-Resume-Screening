@@ -1,0 +1,53 @@
+DAVID PARK
+Machine Learning Researcher
+d.park@email.com | Boston, MA | scholar.google.com/davidpark
+
+SUMMARY
+PhD in Machine Learning with 6 years of research experience in neural language models. Published 12 papers in top venues. Seeking transition from academia to industry.
+
+EXPERIENCE
+
+Postdoctoral Researcher | MIT CSAIL | 2022 - Present
+- Research focus on efficient training methods for large language models
+- Developed novel parameter-efficient fine-tuning method, accepted at NeurIPS 2023
+- Implemented distributed training experiments using PyTorch FSDP on 64 GPU cluster
+- Collaborated with industry partners on LLM evaluation benchmarks
+- Supervised 3 PhD students on transformer architecture research
+
+PhD Researcher | Carnegie Mellon University | 2017 - 2022
+- Dissertation: "Efficient Adaptation Methods for Pre-trained Language Models"
+- Proposed early version of adapter-based fine-tuning (precursor to LoRA concepts)
+- Implemented custom CUDA kernels for attention mechanism optimization
+- Built evaluation framework for language model capabilities
+- Published 8 papers in ACL, EMNLP, NeurIPS, ICML
+
+Research Intern | Google Brain | Summer 2020
+- Worked on T5 model training infrastructure
+- Implemented data preprocessing pipeline for C4 dataset
+- Contributed to model parallelism codebase
+
+Research Intern | Facebook AI Research | Summer 2019
+- Researched knowledge distillation for transformer compression
+- Implemented quantization-aware training experiments
+
+EDUCATION
+Ph.D. Machine Learning, Carnegie Mellon University, 2022
+M.S. Computer Science, Seoul National University, 2017
+B.S. Computer Science, Seoul National University, 2015
+
+PUBLICATIONS (Selected)
+- "Adaptive Low-Rank Adaptation for Efficient LLM Fine-tuning" - NeurIPS 2023
+- "Memory-Efficient Training of Billion-Parameter Models" - ICML 2022
+- "Understanding In-Context Learning in Transformers" - ACL 2022
+- "Knowledge Distillation for Transformer Compression" - EMNLP 2020
+
+SKILLS
+Languages: Python, C++, CUDA
+Frameworks: PyTorch, JAX, TensorFlow
+Research: Experiment design, paper writing, peer review
+Tools: Git, LaTeX, Weights & Biases
+
+LIMITATIONS
+- Limited production deployment experience
+- No experience with MLOps tools (Kubeflow, MLflow in production)
+- Primarily worked with research codebases, not production systems

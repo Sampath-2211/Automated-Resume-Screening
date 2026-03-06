@@ -1,0 +1,49 @@
+IRIS PATEL
+ML Infrastructure Engineer
+iris.patel@email.com | Austin, TX
+
+SUMMARY
+4 years of experience in ML infrastructure. Strong systems engineering background with growing ML expertise.
+
+EXPERIENCE
+
+ML Infrastructure Engineer | MLStartup Inc | 2022 - Present
+- Built GPU cluster management system for ML training workloads
+- Implemented distributed training infrastructure using Horovod
+- Created model serving platform using Triton Inference Server
+- Optimized CUDA memory usage, reducing OOM errors by 80%
+- Built monitoring for GPU utilization and training metrics
+- Managed Kubernetes clusters with 100+ GPU nodes
+
+DevOps Engineer | CloudCorp | 2020 - 2022
+- Managed Kubernetes infrastructure on AWS EKS
+- Implemented CI/CD pipelines using GitHub Actions
+- Built Terraform modules for infrastructure as code
+- Created monitoring stack using Prometheus and Grafana
+
+Software Engineer | TechStartup | 2019 - 2020
+- Developed backend services using Python
+- Built data pipelines using Apache Airflow
+- Implemented basic ML model deployment
+
+EDUCATION
+B.S. Computer Science, UT Austin, 2019
+
+CERTIFICATIONS
+- AWS Solutions Architect Professional
+- Kubernetes Administrator (CKA)
+- NVIDIA Deep Learning Institute - Fundamentals
+
+SKILLS
+Languages: Python, Go, Bash, basic CUDA
+Infrastructure: Kubernetes, Docker, Terraform, AWS
+ML Infra: Triton, Horovod, Ray
+Monitoring: Prometheus, Grafana, DataDog
+
+LIMITATIONS
+- Only 4 years total experience (below 5 year requirement)
+- No direct experience with LLM fine-tuning
+- Haven't used DeepSpeed or FSDP
+- No experience with RAG systems or vector databases
+- No NLP or LLM-specific work
+- No publications or research background
