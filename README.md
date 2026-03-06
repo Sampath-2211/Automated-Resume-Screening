@@ -6,7 +6,9 @@ A smart resume screening system that evaluates candidates fairly by **proving ev
 
 Most resume screening tools (ATS) reject qualified candidates because of simple word mismatches. For example, a candidate with "B.Tech in Computer Science Engineering" might get rejected for a job requiring "Bachelor's in Computer Science" — even though they're the same thing.
 
-This system fixes that by using AI that actually **understands meaning**, not just keywords.
+On top of that, HR teams have no way to manually verify screening results across hundreds of resumes. They receive scores with no explanation and no proof — just a number they're expected to trust.
+
+This system fixes both problems by using AI that actually **understands meaning**, not just keywords, and **proves every score with verifiable evidence** from the resume that HR can click and verify.
 
 ## How It Works
 
@@ -172,4 +174,3 @@ Tested on an M1 MacBook Pro with 8GB RAM. LLM calls go to Groq Cloud API — all
 | PDF Reading | PyMuPDF |
 | OCR (Security) | Tesseract |
 | Web Interface | Streamlit |
-
