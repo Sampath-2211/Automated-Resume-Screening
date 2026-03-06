@@ -150,6 +150,19 @@ GROQ_API_KEYS=key1,key2,key3
 | `diagnostic.py` | Pre-run check to make sure everything is set up |
 | `requirements.txt` | List of Python packages needed |
 
+## Performance
+
+| Metric | Result |
+|--------|--------|
+| 10 resumes | ~7 minutes |
+| 5–6 resumes | ~3–4 minutes |
+| 4 resumes | ~2 minutes |
+| Pipeline determinism | 50% (3 of 6 nodes) |
+
+Tested on an M1 MacBook Pro with 8GB RAM. LLM calls go to Groq Cloud API — all other processing (embeddings, validation, ranking, PDF rendering) runs locally.
+
+**The system is hardware-agnostic and scales linearly** — more resources means faster processing and more resumes per batch. There is no upper limit on resume count.
+
 ## Tech Stack
 
 | Component | Technology |
@@ -159,3 +172,4 @@ GROQ_API_KEYS=key1,key2,key3
 | PDF Reading | PyMuPDF |
 | OCR (Security) | Tesseract |
 | Web Interface | Streamlit |
+
