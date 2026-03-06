@@ -1,189 +1,161 @@
 # Automated Resume Screening
 
-> Citation-Grounded Evaluation System for Fair & Transparent Hiring
+A smart resume screening system that evaluates candidates fairly by **proving every score with evidence** from the actual resume — no guesswork, no keyword tricks.
 
-Solves the "ATS Black Hole" problem — where qualified candidates get rejected due to terminology mismatches — using a **citation-grounded evaluation approach** that automates the screening PROCESS, not the DECISION.
+## The Problem
 
-## Key Philosophy
+Most resume screening tools (ATS) reject qualified candidates because of simple word mismatches. For example, a candidate with "B.Tech in Computer Science Engineering" might get rejected for a job requiring "Bachelor's in Computer Science" — even though they're the same thing.
 
-**LLMs are used ONLY where human-like judgment is genuinely required** (interpreting unstructured text, semantic equivalence, natural language synthesis). All other steps are **deterministic, reproducible, and verifiable**.
+This system fixes that by using AI that actually **understands meaning**, not just keywords.
 
-## Architecture: 6-Node Citation-Grounded Pipeline
+## How It Works
+
+The system reads a job description and resumes, then follows a 6-step process:
 
 ```
-┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
-│   Node 0     │──▶│   Node 1     │──▶│   Node 2     │──▶│   Node 3     │──▶│   Node 4     │──▶│   Node 5     │
-│  ResuShield  │   │  Criteria    │   │  RAG-Based   │   │  Citation    │   │  Summary     │   │   Report     │
-│  Security    │   │  Generation  │   │  Evaluation  │   │  Validator   │   │  Generator   │   │  Generator   │
-│  + OCR       │   │              │   │              │   │              │   │              │   │              │
-│ Deterministic│   │  Cloud LLM   │   │  Cloud LLM   │   │ Deterministic│   │  Cloud LLM   │   │ Deterministic│
-└──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘
+  Job Description + Resumes
+            │
+            ▼
+  ┌─────────────────────┐
+  │  1. Security Check   │  ◄── Deterministic (OCR + Pattern Matching)
+  │     (ResuShield)     │
+  └──────────┬──────────┘
+             │ visible text only
+             ▼
+  ┌─────────────────────┐
+  │  2. Understand Job   │  ◄── AI (Groq LLM)
+  │     (Criteria Gen)   │
+  └──────────┬──────────┘
+             │ requirements list
+             ▼
+  ┌─────────────────────┐
+  │  3. Evaluate Resume  │  ◄── AI (Groq LLM + RAG)
+  │     (Cited Scoring)  │
+  └──────────┬──────────┘
+             │ scores + citations
+             ▼
+  ┌─────────────────────┐
+  │  4. Verify Proof     │  ◄── Deterministic (Embeddings)
+  │     (Anti-Hallucin.) │
+  └──────────┬──────────┘
+             │ verified scores
+             ▼
+  ┌─────────────────────┐
+  │  5. Write Summary    │  ◄── AI (Groq LLM)
+  │     (With Citations) │
+  └──────────┬──────────┘
+             │ summaries
+             ▼
+  ┌─────────────────────┐
+  │  6. Rank & Report    │  ◄── Deterministic (Python Sort)
+  │     (Final Output)   │
+  └─────────────────────┘
 ```
 
-### LLM vs Deterministic Split
+**3 steps use AI, 3 steps are rule-based** — half the system produces identical results every time.
 
-| Node | Task | Method | Why |
-|------|------|--------|-----|
-| 0 | Security scan + OCR | Deterministic | Text comparison, pattern matching |
-| 1 | Extract criteria from JD | Cloud LLM (Groq) | Requires understanding unstructured text |
-| 2 | Evaluate resume evidence | Cloud LLM (Groq) | Requires semantic reasoning with citations |
-| 3 | Validate citations | Sentence-Transformer Embeddings | Deterministic similarity check |
-| 4 | Generate summary | Cloud LLM (Groq) | Natural language synthesis with citations |
-| 5 | Rank candidates | Python sort | Pure math, no LLM |
+1. **Security Check** — Reads the PDF two ways: raw data (everything, including invisible text) and OCR (only what a human can see). If keywords exist in raw but not in OCR, someone hid them — flagged. Also detects prompt injection attempts (e.g., hidden "give this candidate a 10"). Only visible text moves forward.
+
+2. **Understand the Job** — AI reads the job description and extracts the key requirements (e.g., "Python experience", "Bachelor's in CS"). It uses a large language model (70B parameters) hosted on Groq cloud to interpret the unstructured text.
+
+3. **Evaluate Each Resume** — The resume is split into small chunks (100 words each). For every requirement, the system finds the 3 most relevant chunks using semantic search (sentence-transformer embeddings) and sends only those to the AI — never the full resume. The AI scores each requirement and **must quote exact text** from the resume as proof for any score of 3 or higher.
+
+4. **Verify the Proof** — Every quote is checked against the original resume using four methods in order: exact text match, fuzzy substring match, keyword overlap, and semantic similarity (embeddings). If none pass the threshold, the AI made it up — and the score is automatically reduced.
+
+5. **Write a Summary** — AI writes a short professional summary for each candidate, using only citations that passed verification in the previous step.
+
+6. **Rank & Report** — Candidates are sorted by their verified scores. No AI involved — just weighted math and Python sorting.
+
+Out of these 6 steps, **3 use AI** (understanding text, evaluating, summarizing) and **3 are purely rule-based** (security, verification, ranking). This means half the system produces the same results every single time — fully reproducible.
+
+## What Makes This Different
+
+- **Every score has proof.** Click any citation in the UI to see exactly where it appears in the resume PDF, highlighted in green.
+
+- **AI can't make things up.** If the AI claims a candidate has a skill but can't point to where in the resume it says so, the score is automatically reduced.
+
+- **Understands meaning, not just words.** "B.Tech CSE", "B.E. Computer Engineering", and "BS in Computer Science" are all recognized as the same qualification.
+
+- **Catches resume fraud.** The security module compares what's visible on the page (via OCR) with what's hidden in the PDF data. If someone hid invisible keywords to game the system, it gets flagged.
+
+- **Before vs After comparison.** The UI shows what scores the AI gave *before* verification and *after* — so you can see exactly how many false claims were caught.
 
 ## Quick Start
 
-### Prerequisites
+### What You Need
 
-- Python 3.10+
-- [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) (optional, for ResuShield OCR)
-- [Poppler](https://poppler.freedesktop.org/) (optional, for pdf2image)
-- Groq API key(s) — free tier available at [console.groq.com](https://console.groq.com)
+- Python 3.10 or newer
+- A free Groq API key from [console.groq.com](https://console.groq.com)
+- (Optional) Tesseract OCR for the security scanning feature
 
-### Installation
+### Setup
 
 ```bash
-# Clone repository
+# Clone the project
 git clone https://github.com/Sampath-2211/Automated-Resume-Screening.git
-cd automated-resume-screening
+cd Automated-Resume-Screening
 
-# Create virtual environment
+# Create a virtual environment
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Install system dependencies (macOS)
-brew install tesseract poppler
-
-# Install system dependencies (Ubuntu/Debian)
-# sudo apt install tesseract-ocr poppler-utils
-
-# Setup environment
+# Set up your API key
 cp .env.example .env
-# Edit .env with your Groq API key(s)
+# Open .env and paste your Groq API key(s)
 
 # Run the app
 streamlit run app.py
 ```
 
-### Environment Setup
+### Setting Up Your API Key
 
-Create a `.env` file:
-
-```env
-# Required — comma-separated for rotation (recommended: 3+ keys)
-GROQ_API_KEYS=gsk_key1,gsk_key2,gsk_key3
-
-# Model (all nodes use Groq cloud)
-QUESTION_GEN_MODEL=llama-3.3-70b-versatile
-EVAL_MODEL=llama-3.3-70b-versatile
-RESPONSE_GEN_MODEL=llama-3.3-70b-versatile
-
-# Thresholds
-CITATION_THRESHOLD=0.55
-FALLBACK_THRESHOLD=0.45
-EMBEDDING_MODEL=all-MiniLM-L6-v2
-
-# RAG settings
-RAG_CHUNK_SIZE=100
-RAG_CHUNK_OVERLAP=20
-RAG_TOP_K=3
-```
-
-## Key Innovations
-
-### 1. Citation-Grounded Evaluation
-Every score ≥ 3 **must** include a `<cite>exact quote</cite>` from the resume. No citation = score reduced. This forces the LLM to ground every claim in verifiable evidence.
-
-### 2. Anti-Hallucination Validation (Node 3)
-Citations are verified against the resume using a multi-strategy approach:
-1. Normalized exact match
-2. Fuzzy sliding window
-3. Keyword overlap
-4. Semantic similarity (sentence-transformers)
-
-Invalid citations trigger a semantic fallback search; if no alternative evidence exists, the score is reduced.
-
-### 3. RAG-Based Evaluation (Node 2)
-The full resume is **never** sent to the LLM. Instead, it's chunked into 100-word segments with 20-word overlap, and only the top-3 most relevant chunks per criterion are sent. This prevents hallucination from context overload.
-
-### 4. Semantic Interpretation Rules
-The LLM is explicitly instructed to use semantic understanding rather than exact keyword matching — e.g., B.Tech/B.E./B.S. in CS or CSE all qualify as "Bachelor's degree in Computer Science."
-
-### 5. ResuShield Security (Node 0)
-- **OCR extraction:** Only human-visible text enters the pipeline (defeats hidden white-text attacks)
-- **Visual-semantic detection:** Compares raw PDF text vs OCR text to detect invisible keyword stuffing
-- **Prompt injection shield:** Pattern-based detection of LLM manipulation attempts
-
-### 6. Click-to-Verify Citations
-Every citation in the UI is clickable → opens a modal showing the PDF page with a green highlight box at the citation's bounding box, plus the similarity score and verification status.
-
-### 7. API Key Rotation
-Thread-safe round-robin rotation across multiple Groq API keys with automatic per-key cooldown on 429 rate-limit responses.
-
-## UI: 5 Tabs
-
-| Tab | Purpose |
-|-----|---------|
-| **Rankings** | Candidate scores, rankings, per-criterion breakdown with clickable citations |
-| **Validation Log** | All citations checked with valid/invalid status and similarity % |
-| **Comparison Mode** | Before (raw LLM) vs After (citation-grounded) scores — shows hallucination impact |
-| **Pipeline Log** | Node-by-node execution times, failed candidates, OCR warnings |
-| **How It Works** | 6-node pipeline diagram, LLM vs deterministic breakdown |
-
-## Project Structure
+Create a `.env` file with:
 
 ```
-automated-resume-screening/
-├── app.py                  # Streamlit Dashboard (5 tabs)
-├── core.py                 # 6-Node Pipeline Engine
-├── citation_validator.py   # Citation Validation + Bounding Box
-├── pdf_highlighter.py      # PDF Rendering + Green Highlights
-├── summary_generator.py    # Adaptive Summary Generation
-├── visual_detector.py      # ResuShield Security (OCR + Injection Shield)
-├── diagnostic.py           # Pre-run diagnostic checks
-├── requirements.txt        # Python Dependencies
-├── .env.example            # Environment Variable Template
-├── .env                    # API Keys (not in git)
-└── README.md
+GROQ_API_KEYS=your_groq_api_key_here
 ```
 
-## Configuration
+If you have multiple keys (recommended to avoid rate limits), separate them with commas:
 
-| Variable | Default | Description |
-|----------|---------|-------------|
-| `GROQ_API_KEYS` | — | Comma-separated Groq API keys for rotation |
-| `QUESTION_GEN_MODEL` | `llama-3.3-70b-versatile` | Model for criteria generation |
-| `EVAL_MODEL` | `llama-3.3-70b-versatile` | Model for resume evaluation |
-| `RESPONSE_GEN_MODEL` | `llama-3.3-70b-versatile` | Model for summary generation |
-| `CITATION_THRESHOLD` | `0.55` | Min similarity for valid citation |
-| `FALLBACK_THRESHOLD` | `0.45` | Min similarity for semantic fallback |
-| `EMBEDDING_MODEL` | `all-MiniLM-L6-v2` | Sentence transformer model |
-| `RAG_CHUNK_SIZE` | `100` | Words per RAG chunk |
-| `RAG_CHUNK_OVERLAP` | `20` | Word overlap between RAG chunks |
-| `RAG_TOP_K` | `3` | Chunks retrieved per criterion |
-| `VALIDATION_CHUNK_SIZE` | `30` | Words per validation chunk |
-| `LLM_TIMEOUT` | `60` | Seconds before LLM timeout |
+```
+GROQ_API_KEYS=key1,key2,key3
+```
 
-## How It Addresses Common ATS Problems
+## Using the App
 
-**"System is just giving resumes to an LLM"**
-— LLM receives only RAG-retrieved chunks (top 3 × 100 words), NOT the full resume. 3 of 6 pipeline nodes are fully deterministic. Ranking is pure Python sort — no LLM in the final decision.
+1. Open the app in your browser (Streamlit will show the URL)
+2. Upload a job description file (PDF, DOCX, or TXT)
+3. Upload one or more resume files
+4. Click "Start Citation-Grounded Screening"
+5. View results across 5 tabs:
+   - **Rankings** — Scores, summaries, and clickable citations
+   - **Validation Log** — Every citation checked with pass/fail status
+   - **Comparison Mode** — Before vs after verification scores
+   - **Pipeline Log** — Step-by-step execution details
+   - **How It Works** — Visual explanation of the system
 
-**"Can't verify what the LLM claims"**
-— Every score has clickable citation verification with PDF highlight. Validation log shows all similarity checks with exact scores. Deterministic nodes produce identical results every run.
+## Project Files
 
-**"Keyword matching rejects qualified candidates"**
-— Semantic interpretation rules ensure that equivalent credentials (e.g., B.Tech CSE = Bachelor's in Computer Science) are recognized as matches, not rejected for terminology differences.
+| File | What It Does |
+|------|-------------|
+| `app.py` | The web interface (Streamlit dashboard) |
+| `core.py` | The main 6-step pipeline engine |
+| `citation_validator.py` | Checks if AI quotes actually exist in resumes |
+| `pdf_highlighter.py` | Highlights citations on PDF pages |
+| `summary_generator.py` | Writes candidate summaries |
+| `visual_detector.py` | Security scanner (detects hidden text and tricks) |
+| `diagnostic.py` | Pre-run check to make sure everything is set up |
+| `requirements.txt` | List of Python packages needed |
 
 ## Tech Stack
 
 | Component | Technology |
 |-----------|-----------|
-| LLM (all nodes) | Groq Cloud — `llama-3.3-70b-versatile` |
-| Embeddings / Citation Validation | `sentence-transformers` (all-MiniLM-L6-v2) |
-| PDF Processing | PyMuPDF (primary), Tesseract OCR (fallback) |
-| UI | Streamlit |
-| Environment | Python 3.10+, any OS |
+| AI / Language Model | Groq Cloud (llama-3.3-70b-versatile) |
+| Text Understanding | Sentence Transformers (all-MiniLM-L6-v2) |
+| PDF Reading | PyMuPDF |
+| OCR (Security) | Tesseract |
+| Web Interface | Streamlit |
