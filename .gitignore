@@ -108,3 +108,18 @@ sample_data/job_descriptions/*.pdf
 # Uploads (test data)
 # =============================================================================
 uploads/
+
+# =============================================================================
+# Data & Test folders (not for git)
+# =============================================================================
+Output/
+Resumes-Final/
+Training/
+data/
+previous/
+previous2/
+results/
+resumes/
+txt resumes/
+txt resumes 3/
+uploads/
